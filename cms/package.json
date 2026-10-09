@@ -1,0 +1,20 @@
+{
+  "name": "express-clean-cms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Directus headless CMS for EXPRESS CLEAN",
+  "scripts": {
+    "bootstrap": "directus bootstrap",
+    "start": "directus start",
+    "dev": "directus start",
+    "setup": "node scripts/setup-schema.mjs",
+    "import": "node scripts/import-enot-catalog.mjs",
+    "fetch:enot": "node scripts/fetch-enot-catalog.mjs && node scripts/build-enot-catalog.mjs",
+    "schema:apply": "directus schema apply ./schema/snapshot.yaml --yes",
+    "schema:snapshot": "directus schema snapshot ./schema/snapshot.yaml --yes"
+  },
+  "dependencies": {
+    "directus": "^12.5.0",
+    "mysql2": "^3.15.0"
+  }
+}

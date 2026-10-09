@@ -1,0 +1,2517 @@
+{
+  "source": "enot-24.com.ua",
+  "imported_at": "2026-10-09T15:21:55.196Z",
+  "categories": [
+    {
+      "slug": "khimchistka-vzuttya",
+      "title": "Хімчистка взуття",
+      "description": "Хімчистка взуття. Напрям: Чистка та ремонт взуття.",
+      "sort": 1,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/VFtMrXV6TWgghokKrADXluAf3pnN9Q-metaRnJhbWUgMTcwOS5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "ugg",
+          "name": "UGG",
+          "price": "1,900₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка UGG у Києві. Видалення солі, жирування овчини, антибактеріальна обробка та нано-захист. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "baletky",
+          "name": "Балетки",
+          "price": "1,950₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка балеток у Києві. Видалення плям, антибактеріальна обробка, збереження форми та декору. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "bosonizhky",
+          "name": "Босоніжки",
+          "price": "1,950₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка босоніжок у Києві. Видалення забруднень, догляд за ремінцями та фурнітурою, антибактеріальна обробка. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "botfordy",
+          "name": "Ботфорди",
+          "price": "3,300₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка ботфортів у Києві. Чищення шкіри та замші, догляд за халявою, видалення солі та реагентів. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "krosivky",
+          "name": "Кросівки",
+          "price": "1,550₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка кросівок у Києві. Видалення плям, чищення підошви та шнурків, антибактеріальна обробка. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "lofery",
+          "name": "Лофери",
+          "price": "1,950₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка лоферів у Києві. Чищення шкіри та замші, полірування, видалення плям та солі. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "mokasyny",
+          "name": "Мокасини",
+          "price": "1,950₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка мокасинів у Києві. Чищення замші та шкіри, видалення плям і солі, захисне покриття. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 7,
+          "promo": false
+        },
+        {
+          "slug": "napivcherevyky",
+          "name": "Напівчеревики",
+          "price": "2,200₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка напівчеревиків у Києві. Видалення плям і солі, жирування шкіри, захисне покриття. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 8,
+          "promo": false
+        },
+        {
+          "slug": "tufli",
+          "name": "Туфлі",
+          "price": "1,950₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка туфель у Києві. Чищення шкіри, лаку та замші, полірування, видалення плям. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 9,
+          "promo": false
+        },
+        {
+          "slug": "cherevyky",
+          "name": "Черевики",
+          "price": "2,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка черевиків у Києві. Видалення солі та реагентів, жирування, антибактеріальна обробка. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 10,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "remont-vzuttya",
+      "title": "Ремонт взуття",
+      "description": "Ремонт взуття. Напрям: Чистка та ремонт взуття.",
+      "sort": 2,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/wvKYsNztYM2VsPqwbY7Dmmkq5oVEcf-metaRnJhbWUgMTcwOS5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "repair-1",
+          "name": "Жіночі штифтові",
+          "price": "від 500 грн",
+          "price_individual": null,
+          "note": "Набійки",
+          "description": null,
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "repair-2",
+          "name": "Жіночі (поліуретан/гума)",
+          "price": "від 700 грн",
+          "price_individual": null,
+          "note": "Набійки",
+          "description": null,
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "repair-3",
+          "name": "Чоловічі (поліуретан/гума)",
+          "price": "від 800 грн",
+          "price_individual": null,
+          "note": "Набійки",
+          "description": null,
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "repair-4",
+          "name": "Комбіновані набійки",
+          "price": "від 950 грн",
+          "price_individual": null,
+          "note": "Набійки",
+          "description": null,
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "repair-5",
+          "name": "Донарощування під набійку",
+          "price": "300 грн",
+          "price_individual": null,
+          "note": "Набійки",
+          "description": null,
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "repair-6",
+          "name": "Тракторні набійки",
+          "price": "від 900 грн",
+          "price_individual": null,
+          "note": "Набійки",
+          "description": null,
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "repair-7",
+          "name": "Профілактика Vibram",
+          "price": "від 950 грн",
+          "price_individual": null,
+          "note": "Профілактика",
+          "description": null,
+          "sort": 7,
+          "promo": false
+        },
+        {
+          "slug": "repair-8",
+          "name": "Профілактика повного сліду (до набійки)",
+          "price": "від 1 400 грн",
+          "price_individual": null,
+          "note": "Профілактика",
+          "description": null,
+          "sort": 8,
+          "promo": false
+        },
+        {
+          "slug": "repair-9",
+          "name": "Профілактика повного сліду (спортивне взуття)",
+          "price": "1 500 грн",
+          "price_individual": null,
+          "note": "Профілактика",
+          "description": null,
+          "sort": 9,
+          "promo": false
+        },
+        {
+          "slug": "repair-10",
+          "name": "Профілактика Casali Mirror (дзеркальна)",
+          "price": "1 700 грн",
+          "price_individual": null,
+          "note": "Профілактика",
+          "description": null,
+          "sort": 10,
+          "promo": false
+        },
+        {
+          "slug": "repair-11",
+          "name": "Донарощування під профілактику",
+          "price": "від 300 грн",
+          "price_individual": null,
+          "note": "Профілактика",
+          "description": null,
+          "sort": 11,
+          "promo": false
+        },
+        {
+          "slug": "repair-12",
+          "name": "Повна переклейка підошви",
+          "price": "від 1 550 грн",
+          "price_individual": null,
+          "note": "Профілактика",
+          "description": null,
+          "sort": 12,
+          "promo": false
+        },
+        {
+          "slug": "repair-13",
+          "name": "Підклейка підошви (до трьох місць)",
+          "price": "500 грн",
+          "price_individual": null,
+          "note": "Профілактика",
+          "description": null,
+          "sort": 13,
+          "promo": false
+        },
+        {
+          "slug": "repair-14",
+          "name": "Розтяжка взуття",
+          "price": "від 600 грн",
+          "price_individual": null,
+          "note": "Профілактика",
+          "description": null,
+          "sort": 14,
+          "promo": false
+        },
+        {
+          "slug": "repair-15",
+          "name": "Заміна вкладних устілок (шкіра)",
+          "price": "950 грн",
+          "price_individual": null,
+          "note": "Устілки",
+          "description": null,
+          "sort": 15,
+          "promo": false
+        },
+        {
+          "slug": "repair-16",
+          "name": "Заміна устілок на відкритому взутті (носова частина)",
+          "price": "900 грн",
+          "price_individual": null,
+          "note": "Устілки",
+          "description": null,
+          "sort": 16,
+          "promo": false
+        },
+        {
+          "slug": "repair-17",
+          "name": "Заміна основних устілок",
+          "price": "від 1 500 грн",
+          "price_individual": null,
+          "note": "Устілки",
+          "description": null,
+          "sort": 17,
+          "promo": false
+        },
+        {
+          "slug": "repair-18",
+          "name": "Заміна вкладних устілок (текстиль)",
+          "price": "350 грн",
+          "price_individual": null,
+          "note": "Устілки",
+          "description": null,
+          "sort": 18,
+          "promo": false
+        },
+        {
+          "slug": "repair-19",
+          "name": "Встановлення внутрішньої латки",
+          "price": "від 500 грн",
+          "price_individual": null,
+          "note": "Латки",
+          "description": "Одиниця: за одиницю",
+          "sort": 19,
+          "promo": false
+        },
+        {
+          "slug": "repair-20",
+          "name": "Заміна деталей (декоративна латка)",
+          "price": "від 800 грн",
+          "price_individual": null,
+          "note": "Латки",
+          "description": "Одиниця: за одиницю",
+          "sort": 20,
+          "promo": false
+        },
+        {
+          "slug": "repair-21",
+          "name": "Заміна кишень задників (шкіра, замш, текстиль)",
+          "price": "від 1 500 грн",
+          "price_individual": null,
+          "note": "Задники",
+          "description": null,
+          "sort": 21,
+          "promo": false
+        },
+        {
+          "slug": "repair-22",
+          "name": "Заміна жорстких задників",
+          "price": "від 1 500 грн",
+          "price_individual": null,
+          "note": "Задники",
+          "description": null,
+          "sort": 22,
+          "promo": false
+        },
+        {
+          "slug": "repair-23",
+          "name": "Полірування ранту",
+          "price": "від 550 грн",
+          "price_individual": null,
+          "note": "Фурнітура",
+          "description": null,
+          "sort": 23,
+          "promo": false
+        },
+        {
+          "slug": "repair-24",
+          "name": "Заміна бігунка",
+          "price": "від 550 грн",
+          "price_individual": null,
+          "note": "Фурнітура",
+          "description": null,
+          "sort": 24,
+          "promo": false
+        },
+        {
+          "slug": "repair-25",
+          "name": "Заміна блискавки",
+          "price": "від 1 500 грн",
+          "price_individual": null,
+          "note": "Фурнітура",
+          "description": null,
+          "sort": 25,
+          "promo": false
+        },
+        {
+          "slug": "repair-26",
+          "name": "Потайний шов (до 5 см)",
+          "price": "від 600 грн",
+          "price_individual": null,
+          "note": "Відновлення швів",
+          "description": null,
+          "sort": 26,
+          "promo": false
+        },
+        {
+          "slug": "repair-27",
+          "name": "Відновлення шва, ручна строчка (до 5 см)",
+          "price": "від 550 грн",
+          "price_individual": null,
+          "note": "Відновлення швів",
+          "description": null,
+          "sort": 27,
+          "promo": false
+        },
+        {
+          "slug": "repair-28",
+          "name": "Прошивка підошви по периметру",
+          "price": "від 1 250 грн",
+          "price_individual": null,
+          "note": "Відновлення швів",
+          "description": null,
+          "sort": 28,
+          "promo": false
+        },
+        {
+          "slug": "repair-29",
+          "name": "Заміна підошви (чепрак, кожвалон)",
+          "price": "від 2 000 грн",
+          "price_individual": null,
+          "note": "Підошва",
+          "description": null,
+          "sort": 29,
+          "promo": false
+        },
+        {
+          "slug": "repair-30",
+          "name": "Заміна формованої підошви з прошивкою (без вартості підошви)",
+          "price": "2 200 грн",
+          "price_individual": null,
+          "note": "Підошва",
+          "description": null,
+          "sort": 30,
+          "promo": false
+        },
+        {
+          "slug": "repair-31",
+          "name": "Заміна підошви та ранту Golden Goose",
+          "price": "від 5 500 грн",
+          "price_individual": null,
+          "note": "Підошва",
+          "description": null,
+          "sort": 31,
+          "promo": false
+        },
+        {
+          "slug": "repair-32",
+          "name": "Перетяжка устілок (шкіра)",
+          "price": "2 400 грн",
+          "price_individual": null,
+          "note": "Перетяжка",
+          "description": null,
+          "sort": 32,
+          "promo": false
+        },
+        {
+          "slug": "repair-33",
+          "name": "Перетяжка підборів (простих)",
+          "price": "від 1 900 грн",
+          "price_individual": null,
+          "note": "Перетяжка",
+          "description": null,
+          "sort": 33,
+          "promo": false
+        },
+        {
+          "slug": "repair-34",
+          "name": "Перетяжка підборів (складних)",
+          "price": "від 2 500 грн",
+          "price_individual": null,
+          "note": "Перетяжка",
+          "description": null,
+          "sort": 34,
+          "promo": false
+        },
+        {
+          "slug": "repair-35",
+          "name": "Перетяжка шпальтом",
+          "price": "від 2 250 грн",
+          "price_individual": null,
+          "note": "Перетяжка",
+          "description": null,
+          "sort": 35,
+          "promo": false
+        },
+        {
+          "slug": "repair-36",
+          "name": "Заміна супінатора",
+          "price": "від 1 100 грн",
+          "price_individual": null,
+          "note": "Перетяжка",
+          "description": "Одиниця: за один",
+          "sort": 36,
+          "promo": false
+        },
+        {
+          "slug": "repair-37",
+          "name": "Укріплення підбору",
+          "price": "від 700 грн",
+          "price_individual": null,
+          "note": "Перетяжка",
+          "description": null,
+          "sort": 37,
+          "promo": false
+        },
+        {
+          "slug": "repair-38",
+          "name": "Заміна резинок на літньому взутті",
+          "price": "від 600 грн",
+          "price_individual": null,
+          "note": "Перетяжка",
+          "description": null,
+          "sort": 38,
+          "promo": false
+        },
+        {
+          "slug": "repair-39",
+          "name": "Пробив отвору на ремені",
+          "price": "150 грн",
+          "price_individual": null,
+          "note": "Перетяжка",
+          "description": "Одиниця: за одиницю",
+          "sort": 39,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "verkhniy-odyag",
+      "title": "Верхній oдяг",
+      "description": "Послуги категорії «Верхній oдяг».",
+      "sort": 3,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/I637joMvW5iy2W2mYEq2g0mxzQ2E4c-metaRnJhbWUgMTcxNC5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "khimchystka-vitrovok-profesiynyy-doglyad-za-verkhnim-odyagom-dlya-bud-yakoyi-pogody",
+          "name": "Вітровка",
+          "price": "830₴",
+          "price_individual": "1,230₴",
+          "note": null,
+          "description": "Професійна хімчистка вітровок у Києві. Видалення плям, чищення мембрани, відновлення водовідштовхувальних властивостей. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-podovzhenoyi-shtuchnoyi-dublyanky-doglyad-dlya-vashogo-stylnogo-zymovogo-verkhnogo-odyagu",
+          "name": "Дублянка штучна від 70 см",
+          "price": "1,400₴",
+          "price_individual": "1,950₴",
+          "note": null,
+          "description": "Професійна хімчистка подовжених штучних дублянок у Києві. Делікатне чищення хутра та шкірозамінника, збереження форми та об'єму. Кур'єр. ЄНОТ-24.",
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-shtuchnoyi-dublyanky-do-70-sm-profesiynyy-doglyad-dlya-zymovogo-verkhnogo-odyagu",
+          "name": "Дублянка штучна до 70 см",
+          "price": "1,150₴",
+          "price_individual": "1,700₴",
+          "note": null,
+          "description": "Професійна хімчистка коротких штучних дублянок у Києві. Чищення хутра та шкірозамінника, відновлення ворсу та форми. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "zhylet-syntepon-pukh",
+          "name": "Жилет синтепон/пух",
+          "price": "890₴",
+          "price_individual": "1,300₴",
+          "note": null,
+          "description": "Професійна хімчистка жилетів із синтепоном та пухом у Києві. Рівномірне розподілення наповнювача, видалення плям, збереження форми. Кур'єр. ЄНОТ-24.",
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-zhyleta-z-shtuchnogo-khutra-profesiynyy-doglyad-dlya-vashogo-zymovogo-aksesuaru",
+          "name": "Жилет штучне хутро",
+          "price": "750₴",
+          "price_individual": "1,200₴",
+          "note": null,
+          "description": "Професійна хімчистка жилетів зі штучного хутра у Києві. Відновлення ворсу, видалення плям, збереження об'єму та пухнастості. Кур'єр. ЄНОТ-24.",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-lyzhnykh-kombinezoniv-profesiynyy-doglyad-za-zymovym-odyagom",
+          "name": "Комбінезон лижний",
+          "price": "1,500₴",
+          "price_individual": "2,000₴",
+          "note": null,
+          "description": "Професійна хімчистка лижних комбінезонів у Києві. Відновлення мембрани, видалення плям, збереження теплоізоляційних властивостей. Кур'єр. ЄНОТ-24.",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-dzhynsovykh-kurtok-idealnyy-doglyad-za-stylnym-verkhnim-odyagom",
+          "name": "Куртка джинсова",
+          "price": "980₴",
+          "price_individual": "1,300₴",
+          "note": null,
+          "description": "Професійна хімчистка джинсових курток у Києві. Видалення плям, збереження кольору та фактури денімy, догляд за фурнітурою. Кур'єр. ЄНОТ-24.",
+          "sort": 7,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-lyzhnykh-kurtok-profesiynyy-doglyad-za-sportyvnym-odyagom",
+          "name": "Куртка лижна",
+          "price": "1,400₴",
+          "price_individual": "1,900₴",
+          "note": null,
+          "description": "Професійна хімчистка лижних курток у Києві. Відновлення мембрани та водовідштовхування, видалення плям, збереження утеплювача. Кур'єр. ЄНОТ-24.",
+          "sort": 8,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-pukhovyka-profesiynyy-doglyad-za-zymovymy-kurtkamy",
+          "name": "Куртка пуховик/синтепон",
+          "price": "1,200₴",
+          "price_individual": "1,850₴",
+          "note": null,
+          "description": "Професійна хімчистка пуховиків у Києві. Рівномірний розподіл пуху, видалення плям та запахів, збереження теплоізоляції. Кур'єр. ЄНОТ-24",
+          "sort": 9,
+          "promo": false
+        },
+        {
+          "slug": "palto-dovge-syntepon-pukh",
+          "name": "Пальто довге синтепон/пух",
+          "price": "1,400₴",
+          "price_individual": "2,200₴",
+          "note": null,
+          "description": "Професійна хімчистка довгих пальт із синтепоном та пухом у Києві. Рівний наповнювач, збережена форма, видалення плям та забруднень. Кур'єр. ЄНОТ-24.",
+          "sort": 10,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-korotkogo-palto-profesiyne-ochyshchennya-ta-doglyad",
+          "name": "Пальто текстильне коротке",
+          "price": "920₴",
+          "price_individual": "1,500₴",
+          "note": null,
+          "description": "Професійна хімчистка коротких пальт у Києві. Видалення плям, чищення підкладки, збереження форми та кольору тканини. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 11,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-podovzhenogo-palta-profesiyne-ochyshchennya-dlya-zymovykh-palt",
+          "name": "Пальто текстильне подовжене",
+          "price": "1,040₴",
+          "price_individual": "1,590₴",
+          "note": null,
+          "description": "Професійна хімчистка подовжених пальт у Києві. Видалення плям та забруднень, збереження форми та довжини виробу. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 12,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-parok-profesiynyy-doglyad-za-zymovymy-kurtkamy",
+          "name": "Парка",
+          "price": "1,400₴",
+          "price_individual": "1,900₴",
+          "note": null,
+          "description": "Професійна хімчистка парок у Києві. Чищення основної тканини та хутряної опушки, відновлення водовідштовхування. Кур'єрська доставка. ЄНОТ-24",
+          "sort": 13,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-plashcha-trencha-doglyad-za-stylnymy-verkhnimy-vyrobamy",
+          "name": "Плащ/тренч",
+          "price": "900₴",
+          "price_individual": "1,300₴",
+          "note": null,
+          "description": "Професійна хімчистка плащів та тренчів у Києві. Видалення плям, відновлення водовідштовхування, збереження форми та кольору. Кур'єр. ЄНОТ-24.",
+          "sort": 14,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-pidstibky-z-shtuchnogo-khutra-profesiynyy-doglyad-dlya-vashogo-zymovogo-aksesuaru",
+          "name": "Підстібка штучне хутро",
+          "price": "850₴",
+          "price_individual": "1,200₴",
+          "note": null,
+          "description": "Професійна хімчистка підстібок зі штучного хутра у Києві. Відновлення ворсу, видалення плям та запахів, збереження м'якості матеріалу. Кур'єр. ЄНОТ-24",
+          "sort": 15,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-lyzhnykh-shtaniv-profesiyne-ochyshchennya-dlya-zymovykh-sportyvnykh-shtaniv",
+          "name": "Штани лижні",
+          "price": "930₴",
+          "price_individual": "1,450₴",
+          "note": null,
+          "description": "Професійна хімчистка лижних штанів у Києві. Відновлення мембрани та водовідштовхування, видалення плям та забруднень. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 16,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-podovzhenoyi-shtuchnoyi-shuby-profesiynyy-doglyad-dlya-vashogo-zymovogo-verkhnogo-odyagu",
+          "name": "Шуба штучна від 70 см (додатково)",
+          "price": "1,400₴",
+          "price_individual": "1,950₴",
+          "note": null,
+          "description": "Професійна хімчистка подовжених штучних шуб у Києві. Відновлення ворсу та об'єму, видалення плям, збереження форми виробу. Кур'єр. ЄНОТ-24.",
+          "sort": 17,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-shtuchnoyi-shuby-do-70-sm-profesiynyy-doglyad-dlya-vashogo-zymovogo-ulyublentsya",
+          "name": "Шуба штучна до 70 см",
+          "price": "1,150₴",
+          "price_individual": "1,700₴",
+          "note": null,
+          "description": "Професійна хімчистка коротких штучних шуб у Києві. Делікатне чищення ворсу, видалення плям та запахів, збереження пухнастості. Кур'єр. ЄНОТ-24.",
+          "sort": 18,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "domashniy-tekstil",
+      "title": "Домашній текстиль",
+      "description": "Послуги категорії «Домашній текстиль».",
+      "sort": 4,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/rKhy6DRe5TcC5ap4R9DrhA2v1nqsfz-metaRnJhbWUgMTY5OS5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "khimchystka-komplektu-bilyzny-profesiyne-ochyshchennya-dlya-vashogo-komfortu",
+          "name": "Білизна (комплект)",
+          "price": "400₴",
+          "price_individual": "550₴",
+          "note": null,
+          "description": "Професійна хімчистка комплектів постільної білизни. Видалення глибоких забруднень, алергенів та запахів, збереження кольору. Кур'єр по Києву.",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-bilyzny-profesiyne-ochyshchennya-ta-doglyad-za-vashoyu-bilyznoyu",
+          "name": "Білизна кг ( мінімальне завантаження 10 кг )",
+          "price": "65₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Хімчистка постільної білизни для готелів, хостелів та апартаментів у Києві. Вагова система, прозорі тарифи, стабільна якість партіями.",
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-tekstylnykh-zhalyuzi-profesiyne-ochyshchennya-dlya-vashogo-komfortu",
+          "name": "Жалюзі з текстилю",
+          "price": "580₴",
+          "price_individual": "780₴",
+          "note": null,
+          "description": "Професійна хімчистка текстильних жалюзі. Делікатне очищення ламелей без деформацій, відновлення форми та кольору. Кур'єр ро Києву",
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-dvospalnykh-kovdr-ochyshchennya-dlya-vashogo-vidpochynku",
+          "name": "Ковдра двоспальна",
+          "price": "1,200₴",
+          "price_individual": "1,800₴",
+          "note": null,
+          "description": "Професійна хімчистка двоспальних ковдр. Відновлення наповнювача, видалення алергенів і пилових кліщів. Кур'єр по Києву",
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-polutornykh-kovdr-ochyshchennya-ta-doglyad-dlya-vashogo-komfortu",
+          "name": "Ковдра полуторна",
+          "price": "980₴",
+          "price_individual": "1,460₴",
+          "note": null,
+          "description": "Професійна хімчистка полуторних ковдр. Відновлення наповнювача, видалення кліщів, та запахів. Кур'єр по Києву",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-lambrekeniv-profesiynyy-doglyad-dlya-vashogo-inter-yeru",
+          "name": "Ламбрекен за кг",
+          "price": "470₴",
+          "price_individual": "820₴",
+          "note": null,
+          "description": "Професійна хімчистка ламбрекенів. Очищення складних конструкцій, збереження форми, декору та проклейки. Кур'єр по Києву",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-namatratsnykiv-ochyshchennya-dlya-vashogo-komfortu-ta-zdorov-ya",
+          "name": "Наматрацник на блискавці (шт.)",
+          "price": "1,750₴",
+          "price_individual": "2,000₴",
+          "note": null,
+          "description": "Професійна хімчистка наматрацників на блискавці. Збереження мембрани, видалення алергенів і кліщів. Кур'єр по Києву",
+          "sort": 7,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-namatratsnykiv-na-rezyntsi-profesiyne-ochyshchennya-dlya-vashogo-komfortu",
+          "name": "Наматрацник на резинці (шт.)",
+          "price": "1,100₴",
+          "price_individual": "1,300₴",
+          "note": null,
+          "description": "Професійна хімчистка наматрацників на резинці. Відновлення еластичності, видалення кліщів і алергенів, збереження мембрани та посадки. Кур'єр по Києву",
+          "sort": 8,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-plediv-dvospalnykh",
+          "name": "Плед двохспальний",
+          "price": "950₴",
+          "price_individual": "1,200₴",
+          "note": null,
+          "description": "Професійна хімчистка двоспальних пледів. Відновлення м'якості ворсу, видалення катишків, алергенів і запахів. Кур'єр по Києву.",
+          "sort": 9,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-plediv-polutornykh",
+          "name": "Плед полуторний",
+          "price": "830₴",
+          "price_individual": "1,050₴",
+          "note": null,
+          "description": "Професійна хімчистка полуторних пледів. Відновлення ворсу і м'якості, видалення катишків, збереження принтів. Кур'єр по Києву.",
+          "sort": 10,
+          "promo": false
+        },
+        {
+          "slug": "podushka-z-syntetychnym-napovnyuvachem",
+          "name": "Подушка з синтетичним наповнювачем",
+          "price": "830₴",
+          "price_individual": "930₴",
+          "note": null,
+          "description": "Професійна хімчистка синтетичних подушок. Відновлення об'єму і пружності, видалення кліщів, алергенів. Кур'єр по Києву.",
+          "sort": 11,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-podushky-pukh-pero-profesiyne-ochyshchennya-dlya-komfortnogo-snu",
+          "name": "Подушка пух-перо без заміни напірника (аквачистка)",
+          "price": "850₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна аквачистка пухо-перових подушок без заміни напірника. Відновлення об'єму і пружності, видалення кліщів та алергенів. Кур'єр по Києву.",
+          "sort": 12,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-podushky-pukh-pero-zamina-vidnovlennya-ta-ochyshchennya-dlya-komfortnogo-snu",
+          "name": "Подушка пух-перо з заміною напірника (перенаповнення)",
+          "price": "920₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне перенаповнення пухо-перових подушок із заміною напірника. Очищення старого пуху, новий чохол, відновлення об'єму і гіпоалергенності. Кур'єр по Києву.",
+          "sort": 13,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-meblevykh-podushok-vidnovlennya-chystoty-ta-komfortu-vashoyi-mebli",
+          "name": "Подушки меблеві",
+          "price": "998₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка меблевих подушок. Видалення плям, запахів і алергенів, відновлення форми наповнювача і кольору тканини. Кур'єр по Києву.",
+          "sort": 14,
+          "promo": false
+        },
+        {
+          "slug": "podushky-meblevi-poperednya-konsultatsiya-tekhnologa-tsina-vid",
+          "name": "Подушки меблеві (попередня консультація технолога, ціна від)",
+          "price": "1,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Хімчистка складних меблевих подушок з попередньою консультацією технолога. Діагностика матеріалу, індивідуальний план, безпечна обробка. Кур'єр по Києву.",
+          "sort": 15,
+          "promo": false
+        },
+        {
+          "slug": "prannya-rechey-na-kilogram-profesiyne-prannya-vashogo-odyagu",
+          "name": "Прання речей за кг (мінімальне завантаження від 3 кг)",
+          "price": "430₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Оптове прання білизни та одягу за кілограм. Рушники, постіль, скатертини, робочий одяг — від 3 кг, промислові машини, без розводів і усадки. Кур'єр по Києву.",
+          "sort": 16,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-rymskykh-shtor-profesiyne-ochyshchennya-dlya-elegantnogo-vyglyadu",
+          "name": "Римські штори",
+          "price": "580₴",
+          "price_individual": "740₴",
+          "note": null,
+          "description": "Професійна хімчистка римських штор. Очищення складок без демонтажу конструкції, збереження прутів і механізму, відновлення кольору.",
+          "sort": 17,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-skatertyn-vidnovlennya-chystoty-ta-elegantnosti",
+          "name": "Скатертина від 1 кг",
+          "price": "570₴",
+          "price_individual": "680₴",
+          "note": null,
+          "description": "Професійна хімчистка скатертин від 1 кг. Видалення вина, жиру, воску і соусів, збереження вишивки та мережива. Кур'єр по Києву.",
+          "sort": 18,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-spalnogo-mishka-profesiynyy-doglyad-dlya-komfortnogo-snu",
+          "name": "Спальний мішок (шт.)",
+          "price": "1,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка спальних мішків. Відновлення Loft наповнювача, видалення поту і плісняви, захист мембрани DWR, сушка в термокамері. Кур'єр по Києву.",
+          "sort": 19,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-tyul-dbaylyvyy-doglyad-dlya-vashogo-inter-yeru",
+          "name": "Тюль (м²)",
+          "price": "270₴",
+          "price_individual": "420₴",
+          "note": null,
+          "description": "Професійна хімчистка тюлю. Видалення жовтизни і сірого нальоту, аквачистка без усадки і деформації, фінішне апретування. Кур'єр по Києву.",
+          "sort": 20,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-chokhliv-meblevykh-ochyshchennya-dlya-vashoyi-mebliv",
+          "name": "Чохол меблевий за кг",
+          "price": "560₴",
+          "price_individual": "800₴",
+          "note": null,
+          "description": "Професійна хімчистка меблевих чохлів. Видалення жиру, плям і запахів, збереження геометрії та посадки. Кур'єр по Києву.",
+          "sort": 21,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-shtor-profesiynyy-doglyad-dlya-vashogo-inter-yeru",
+          "name": "Штори (м²)",
+          "price": "350₴",
+          "price_individual": "560₴",
+          "note": null,
+          "description": "Професійна хімчистка штор за квадратний метр. Видалення полімерного бруду, алергенів і жовтизни. Кур'єр по Києву.",
+          "sort": 22,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-podviynykh-shtor-profesiyne-ochyshchennya-dlya-skladnykh-tkanyn",
+          "name": "Штори подвійні (м²)",
+          "price": "510₴",
+          "price_individual": "700₴",
+          "note": null,
+          "description": "Професійна хімчистка подвійних штор. Контроль усадки обох шарів, збереження драпірування, видалення пилу між підкладкою і полотном. Кур'єр по Києву",
+          "sort": 23,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "prannya-kilimiv",
+      "title": "Прання килимів",
+      "description": "Послуги категорії «Прання килимів».",
+      "sort": 5,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/PNEZ2R7gcp8v72aBlURKBVZ3S23Gd7-metaRnJhbWUgMTcwNi5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "chystka-avtomobilnykh-kylymkiv",
+          "name": "Автомобільні килими (до 5 шт., за шт.)",
+          "price": "1,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прання та глибока хімчистка автомобільних килимів. Видалення солей, піску, плям та запахів. Доставка чистих виробів кур'єром.",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "chystka-syntetychnykh-kylymiv",
+          "name": "Килим Синтетика (м²)",
+          "price": "384₴",
+          "price_individual": null,
+          "note": "480-20%",
+          "description": "Професійне прання килимів із синтетики (поліпропілен, поліестер, нейлон). Глибоке очищення, видалення запахів та плям. Кур'єрська доставка",
+          "sort": 2,
+          "promo": true
+        },
+        {
+          "slug": "chystka-akrylovykh-kylymiv",
+          "name": "Килим акрил (м²)",
+          "price": "440₴",
+          "price_individual": null,
+          "note": "550-20%",
+          "description": "Професійне прання акрилових килимів. Усунення катишків, видалення запахів, відновлення м'якості та об'єму ворсу. Кур'єрська доставка.",
+          "sort": 3,
+          "promo": true
+        },
+        {
+          "slug": "chystka-vovnyanykh-kylymiv",
+          "name": "Килим вовна (м²)",
+          "price": "400₴",
+          "price_individual": null,
+          "note": "500-20%",
+          "description": "Професійне прання та делікатна чистка килимів із натуральної вовни. Збереження форми ворсу, захист від усадки. Кур'єрська доставка",
+          "sort": 4,
+          "promo": true
+        },
+        {
+          "slug": "chystka-kylymiv-z-viskozy",
+          "name": "Килим віскоза (м²)",
+          "price": "750₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна суха чистка та відновлення віскозних килимів. Видалення плям від води, повернення шовкового блиску. Кур'єрська доставка.",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "kylym-z-naturalnogo-khutra-m",
+          "name": "Килим з натурального хутра  (м²)",
+          "price": "1,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна чистка та делікатна реставрація килимів з натурального хутра. Відновлення блиску ворсу та еластичності мездри. Кур'єрська доставка",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "chystka-kylymiv-sheggi",
+          "name": "Килим шеггі (м²)",
+          "price": "456₴",
+          "price_individual": null,
+          "note": "570-20%",
+          "description": "Професійне прання та глибока чистка килимів шеггі (shaggy) у Києві. Відновлення об'єму, м'якості та видалення запахів. Кур'єрська доставка",
+          "sort": 7,
+          "promo": true
+        },
+        {
+          "slug": "chystka-shovkovykh-kylymiv",
+          "name": "Килим шовковий (м²)",
+          "price": "950₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна суха чистка та делікатне відновлення килимів із натурального шовку в Києві. Повернення блиску ворсу, захист кольору. Кур'єрська доставка",
+          "sort": 8,
+          "promo": false
+        },
+        {
+          "slug": "chystka-kylymiv-z-naturalnoyi-shkiry",
+          "name": "Килими з натуральної шкіри (м²)",
+          "price": "1,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна суха чистка килимів із натуральної шкіри. Відновлення еластичності, жирування, видалення запахів. Кур'єрська доставка.",
+          "sort": 9,
+          "promo": false
+        },
+        {
+          "slug": "chystka-kylymiv-ruchnoyi-roboty",
+          "name": "Килими ручної роботи-ексклюзивні (м²)",
+          "price": "1,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Хімчистка ексклюзивних килимів ручної роботи. Захист від линяння, суха чистка шовку й вовни. Кур'єрська доставка Києвом.",
+          "sort": 10,
+          "promo": false
+        },
+        {
+          "slug": "chystka-kylymkiv-dlya-yogy",
+          "name": "Килимок для йоги (шт.)",
+          "price": "780₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка та дезінфекція йога-матів (каучук, TPE, PU). Видалення запахів, збереження антиковзного шару Grip. Кур'єр по Києву",
+          "sort": 11,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-malykh-kylymiv",
+          "name": "Невеликі килими (до 1,2 м², за шт.)",
+          "price": "700₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прання приліжкових килимків. Видалення плям від пластиліну, запахів тварин. Кур'єрська доставка",
+          "sort": 12,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "tekstilniy-odyag",
+      "title": "Текстильний Одяг",
+      "description": "Послуги категорії «Текстильний Одяг».",
+      "sort": 6,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/dUwKATBL8SR5obvd5kRzZ8X9mB5dAB-metaRnJhbWUgMTY5NC5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "khimchystka-bluz-u-kyyevi-idealna-chystota-ta-doglyad",
+          "name": "Блуза простого крою",
+          "price": "560₴",
+          "price_individual": "860₴",
+          "note": null,
+          "description": "Професійна хімчистка блуз у Києві: делікатне чищення тканин, видалення складних плям, збереження форми комірця та манжетів. Кур'єрська доставка по Києву. ЄНОТ-24.",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-bluz-u-kyyevi-idealna-chystota-ta-doglyad",
+          "name": "Блуза шовкова/з декором",
+          "price": "820₴",
+          "price_individual": "1,180₴",
+          "note": null,
+          "description": "Хімчистка шовкових блуз та речей із бісером, паєтками, вишивкою у Києві. Делікатна обробка без ризику для тканини та декору. Кур'єрська доставка. ЄНОТ-24.",
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "vyshyta-sorochka",
+          "name": "Вишита сорочка",
+          "price": "870₴",
+          "price_individual": "1,240₴",
+          "note": null,
+          "description": "Професійна хімчистка вишиванок у Києві: захист від линяння ниток, збереження орнаменту та структури льону. Тестування кольору перед обробкою. Кур'єр по Києву. ЄНОТ-24.",
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-vyshytykh-sukon-u-kyyevi-profesiyne-delikatne-chyshchennya",
+          "name": "Вишита сукня",
+          "price": "1,190₴",
+          "price_individual": "1,490₴",
+          "note": null,
+          "description": "Хімчистка вишитих суконь у Києві: збереження орнаменту, форми підкладки та чистота подолу. Паровий манекен, аппретування, захист фурнітури. Кур'єр по Києву. ЄНОТ-24.",
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-golfiv-u-kyyevi-delikatnyy-doglyad-za-vashym-odyagom",
+          "name": "Гольф",
+          "price": "530₴",
+          "price_individual": "930₴",
+          "note": null,
+          "description": "Хімчистка гольфів та водолазок у Києві: видалення пілінгу, відновлення еластичності горловини, виведення плям від косметики. Кондиціонування та паровий манекен. Кур'єр. ЄНОТ-24.",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-dzhemperiv-u-kyyevi-profesiynyy-doglyad-za-vashym-odyagom",
+          "name": "Джемпер",
+          "price": "580₴",
+          "price_individual": "960₴",
+          "note": null,
+          "description": "Хімчистка джемперів у Києві: видалення ковтунців, відновлення еластичності, виведення запахів із трикотажу. Кашемір, вовна, бавовна — делікатна обробка. Кур'єр. ЄНОТ-24.",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-dzhynsiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-dzhynsamy",
+          "name": "Джинси",
+          "price": "770₴",
+          "price_individual": "870₴",
+          "note": null,
+          "description": "Хімчистка джинсів у Києві: захист індиго від вимивання, збереження форми еластану, видалення запахів із деніму. Slim Fit, Oversize, варені — будь-яка модель. Кур'єр. ЄНОТ-24.",
+          "sort": 7,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-zhyletiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-zhyletamy",
+          "name": "Жилет",
+          "price": "500₴",
+          "price_individual": "720₴",
+          "note": null,
+          "description": "Хімчистка коротких жилетів у Києві: захист дублерину від розмокання, збереження підкладки, видалення жиру з комірця та пройм. Паровий манекен. Кур'єр. ЄНОТ-24.",
+          "sort": 8,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-kapri-u-kyyevi-profesiynyy-doglyad-za-vashymy-kapri",
+          "name": "Капрі",
+          "price": "600₴",
+          "price_individual": "700₴",
+          "note": null,
+          "description": "Хімчистка капрі у Києві: видалення плям від трави та піску, відновлення рівного низу, захист льону та бавовни від усадки. Делікатна обробка світлих тканин. Кур'єр. ЄНОТ-24.",
+          "sort": 9,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-kardyganiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-kardyganamy",
+          "name": "Кардиган",
+          "price": "750₴",
+          "price_individual": "980₴",
+          "note": null,
+          "description": "Хімчистка кардиганів у Києві: видалення ковтунців, відновлення м'якості вовни та кашеміру, збереження форми низу та плечей. Делікатна обробка трикотажу. Кур'єр. ЄНОТ-24.",
+          "sort": 10,
+          "promo": false
+        },
+        {
+          "slug": "kombinezon-dzhynsovyy",
+          "name": "Комбінезон джинсовий",
+          "price": "850₴",
+          "price_individual": "1,190₴",
+          "note": null,
+          "description": "Хімчистка джинсових комбінезонів у Києві: збереження індиго, захист фурнітури від іржі, відновлення м'якості деніму. Без заломів і деформації. Кур'єр. ЄНОТ-24.",
+          "sort": 11,
+          "promo": false
+        },
+        {
+          "slug": "kombinezon-tekstylnyy",
+          "name": "Комбінезон текстильний",
+          "price": "810₴",
+          "price_individual": "1,180₴",
+          "note": null,
+          "description": "Хімчистка текстильних комбінезонів у Києві: збереження геометрії швів, захист підкладки та внутрішньої фурнітури, видалення запахів із віскози та ліоцелу. Кур'єр. ЄНОТ-24.",
+          "sort": 12,
+          "promo": false
+        },
+        {
+          "slug": "kombinezon-shovkovyy",
+          "name": "Комбінезон шовковий",
+          "price": "950₴",
+          "price_individual": "1,320₴",
+          "note": null,
+          "description": "Хімчистка шовкових комбінезонів у Києві: збереження перламутрового блиску, видалення слідів дезодоранту, захист від водяних ореолів. Кур'єр по Києву. ЄНОТ-24.",
+          "sort": 13,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-dilovykh-kostyumiv-pidzhak-shtany-spidnytsya-u-kyyevi",
+          "name": "Костюм діловий (піджак + штани / спідниця)",
+          "price": "1,180₴",
+          "price_individual": "1,610₴",
+          "note": null,
+          "description": "Хімчистка ділових костюмів у Києві: збереження каркасу піджака, ідеальні стрілки на штанах, видалення офісного пилу та запахів із вовни. Кур'єр. ЄНОТ-24.",
+          "sort": 14,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-sportyvnykh-kostyumiv-dbaylyvyy-doglyad-za-koftoyu-ta-shtanamy",
+          "name": "Костюм спортивний (кофта + штани)",
+          "price": "1,130₴",
+          "price_individual": "1,510₴",
+          "note": null,
+          "description": "Хімчистка спортивних костюмів у Києві: відновлення м'якості начосу, видалення стійких запахів, збереження еластану та форми колін. Кур'єр по Києву.",
+          "sort": 15,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-koft-u-kyyevi-profesiynyy-doglyad-za-vashymy-koftamy",
+          "name": "Кофта",
+          "price": "650₴",
+          "price_individual": "950₴",
+          "note": null,
+          "description": "Хімчистка кофт у Києві: видалення ковтунців, відновлення м'якості трикотажу, виведення органічних забруднень із манжетів та коміра. Кур'єр по Києву",
+          "sort": 16,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-mayok-u-kyyevi-idealnyy-doglyad-za-vashymy-maykamy",
+          "name": "Майка",
+          "price": "520₴",
+          "price_individual": "730₴",
+          "note": null,
+          "description": "Хімчистка майок у Києві. Повертаємо білизну сірим речам, прибираємо жовті плями від дезодоранту та поту, захищаємо лямки від розтягування. Кур'єр. Замовляйте!",
+          "sort": 17,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-pidzhakiv-u-kyyevi-profesiynyy-doglyad-za-vashym-pidzhakom",
+          "name": "Піджак",
+          "price": "750₴",
+          "price_individual": "1,170₴",
+          "note": null,
+          "description": "Прибираємо блиск на ліктях і комірі, виводимо плями без пошкодження клейових шарів та підкладки. Збережемо форму. Кур'єр по Києву. Замовляйте!",
+          "sort": 18,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-pizham-verkh-nyz-idealnyy-doglyad-za-vashymy-komfortnymy-komplektamy",
+          "name": "Піжама (верх+низ)",
+          "price": "700₴",
+          "price_individual": "1,050₴",
+          "note": null,
+          "description": "Очищення шовку, сатину та модалу. Змиваємо нічні креми, себум, залишки порошків. Повертаємо м'якість. Кур'єр по Києву. Замовляйте!",
+          "sort": 19,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-reglaniv-u-kyyevi-profesiynyy-doglyad-za-vashymy-reglanamy",
+          "name": "Реглан",
+          "price": "800₴",
+          "price_individual": "1,200₴",
+          "note": null,
+          "description": "Вирівнюємо перекошені шви, прибираємо ковтунці, відновлюємо форму горловини, манжетів та ліктів. Кур'єр по Києву. Замовляйте!",
+          "sort": 20,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-sarafaniv-ta-sukon-u-kyyevi-dbaylyvyy-doglyad-za-vashymy-suknyamy",
+          "name": "Сарафан/сукня",
+          "price": "950₴",
+          "price_individual": "1,380₴",
+          "note": null,
+          "description": "Очищення шовку, льону, штапелю. Виводимо плями від парфумів, косметики, бруд з подолу. Збережемо форму. Кур'єр по Києву. Замовляйте!",
+          "sort": 21,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-svitshotiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-svitshotamy",
+          "name": "Свiтшот",
+          "price": "800₴",
+          "price_individual": "1,200₴",
+          "note": null,
+          "description": "Очищення футера та начосу. Виводимо плями, прибираємо ковтунці, повертаємо м'якість тканини та форму ліктів. Кур'єр по Києву. Замовляйте!",
+          "sort": 22,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-svetriv-u-kyyevi-profesiynyy-doglyad-za-vashymy-svetramy",
+          "name": "Светр",
+          "price": "790₴",
+          "price_individual": "970₴",
+          "note": null,
+          "description": "Очищення кашеміру та вовни без звалювання. Прибираємо ковтунці, повертаємо об'єм, м'якість та захист від розтягування. Кур'єр по Києву",
+          "sort": 23,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-smokingiv-ta-frakiv-idealnyy-doglyad-za-elegantnym-cholovichym-odyagom",
+          "name": "Смокінг/Фрак",
+          "price": "1,290₴",
+          "price_individual": "1,900₴",
+          "note": null,
+          "description": "Професійна хімчистка смокінгів, фраків та делікатних шовкових лацканів. Повертаємо глибокий чорний колір, прибираємо запахи та відновлюємо форму без заломів.",
+          "sort": 24,
+          "promo": false
+        },
+        {
+          "slug": "sorochka",
+          "name": "Сорочка",
+          "price": "570₴",
+          "price_individual": "880₴",
+          "note": null,
+          "description": "Професійна хімчистка чоловічих та жіночих сорочок. Видаляємо жовті плями, сліди антиперспіранту та відновлюємо білизну без пошкодження тканини.",
+          "sort": 25,
+          "promo": false
+        },
+        {
+          "slug": "sorochka-z-dekorom",
+          "name": "Сорочка з декором",
+          "price": "720₴",
+          "price_individual": "1,200₴",
+          "note": null,
+          "description": "Делікатна хімчистка сорочок із бісером, вишивкою, мереживом та стразами. Ручна обробка плям, захист фурнітури та професійне прасування. Замовляйте!",
+          "sort": 26,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-v-yazanykh-i-vovnyanykh-spidnyts-dbaylyvyy-doglyad-za-delikatnymy-tkanynamy",
+          "name": "Спідниця в'язана, вовняна, шовкова",
+          "price": "830₴",
+          "price_individual": "1,090₴",
+          "note": null,
+          "description": "Професійна хімчистка вовняних, шовкових та в'язаних спідниць. Виводимо плями, прибираємо ковтунці й засаленість, зберігаємо форму та колір тканини.",
+          "sort": 27,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-spidnyts-plise-gofre-ta-zi-skladkamy-idealna-forma-bezdogannoyi-chystoty",
+          "name": "Спідниця плісе, гофре, складки",
+          "price": "880₴",
+          "price_individual": "1,080₴",
+          "note": null,
+          "description": "Професійна хімчистка спідниць плісе та гофре. Зберігаємо ідеальну геометрію та чіткість кожної складки без ризику деформації тканини. Замовляйте!",
+          "sort": 28,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-spidnyts-prostogo-fasonu-onovlennya-vashogo-ulyublenogo-odyagu",
+          "name": "Спідниця простого фасону",
+          "price": "570₴",
+          "price_individual": "800₴",
+          "note": null,
+          "description": "Професійна хімчистка та прасування спідниць прямого крою, міні та спідниць-олівець. Прибираємо блиск, виводимо плями та відновлюємо чіткість силуету.",
+          "sort": 29,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-v-yazanykh-ta-vovnyanykh-sukon-doglyad-za-elegantnymy-obrazamy",
+          "name": "Сукня в`язана, вовняна, шовкова",
+          "price": "1,020₴",
+          "price_individual": "1,420₴",
+          "note": null,
+          "description": "Професійна хімчистка та аквачистка делікатних суконь у Києві. Захищаємо вовну від усадки, зберігаємо колір шовку, прибираємо ковтунці й заломи.",
+          "sort": 30,
+          "promo": false
+        },
+        {
+          "slug": "suknya-vesilna-bez-dekoru",
+          "name": "Сукня весільна без декору",
+          "price": "3,200₴",
+          "price_individual": "3,800₴",
+          "note": null,
+          "description": "Професійна чистка мінімалістичних весільних суконь з атласу, мікадо та шовку. Виводимо плями, прибираємо розводи та повертаємо дзеркальний блиск.",
+          "sort": 31,
+          "promo": false
+        },
+        {
+          "slug": "suknya-vesilna-z-dekorom",
+          "name": "Сукня весільна з декором",
+          "price": "4,270₴",
+          "price_individual": "4,898₴",
+          "note": null,
+          "description": "Професійна хімчистка весільних суконь із бісером, стразами та мереживом. Бережно виводимо плями, повертаємо блиск декору та об'єм спідниць у Києві.",
+          "sort": 32,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-vechirnikh-sukon-idealnyy-doglyad-dlya-urochystykh-podiy",
+          "name": "Сукня вечірня/святкова",
+          "price": "2,000₴",
+          "price_individual": "2,600₴",
+          "note": null,
+          "description": "Пролили вино на шовк чи забруднили поділ сукні? Делікатна суха чистка вечірнього вбрання в Києві без ризику усадки, линяння та пошкодження тканини.",
+          "sort": 33,
+          "promo": false
+        },
+        {
+          "slug": "suknya-vechirnya-svyatkova-korotka",
+          "name": "Сукня вечірня/святкова коротка",
+          "price": "1,600₴",
+          "price_individual": "2,200₴",
+          "note": null,
+          "description": "Коктейльна сукня втратила форму, а плями від лікеру чи дезодоранту не відпираються? Делікатна чистка без ризику усадки еластану та перекосу швів у Києві.",
+          "sort": 34,
+          "promo": false
+        },
+        {
+          "slug": "suknya-prostogo-fasonu",
+          "name": "Сукня простого фасону",
+          "price": "950₴",
+          "price_individual": "1,250₴",
+          "note": null,
+          "description": "Лаконічна сукня втратила форму, а колір став тьмяним? Виведемо невидимі плями від дезодоранту й парфумів, захистимо від усадки та перекосу швів у Києві.",
+          "sort": 35,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-tenisky-idealna-chystota-ta-doglyad-dlya-vashogo-komfortu",
+          "name": "Теніска",
+          "price": "550₴",
+          "price_individual": "720₴",
+          "note": null,
+          "description": "Комір теніски пішов хвилями, а структура піке посіріла? Повертаємо жорсткість планці, виводимо застарілі плями від поту без білястих розводів на швах у Києві.",
+          "sort": 36,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-topiv-doglyad-za-vashym-stylnym-odyagom",
+          "name": "Топ",
+          "price": "400₴",
+          "price_individual": "640₴",
+          "note": null,
+          "description": "Тональний крем, парфуми чи автозасмага зіпсували улюблений топ? Делікатна суха чистка шовкових, атласних та мереживних топів у Києві без ризику усадки й заломів",
+          "sort": 37,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-tuniky-vasha-ulyublena-rich-u-naykrashchomu-vyglyadi",
+          "name": "Туніка",
+          "price": "640₴",
+          "price_individual": "770₴",
+          "note": null,
+          "description": "Туніка сіла після прання, а поділ перекосився? Виведемо застарілі плями від кремів, солей та вина. Повертаємо об'єм і рівні шви лляним та віскозним тунікам.",
+          "sort": 38,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-futbolok-doskonalyy-vyglyad-vashogo-ulyublenogo-odyagu",
+          "name": "Футболка",
+          "price": "520₴",
+          "price_individual": "820₴",
+          "note": null,
+          "description": "Домашнє прання знищує принти та перекошує шви? Повертаємо футболкам ідеальну форму, виводимо застарілі плями від поту й дезодорантів без втрати кольору",
+          "sort": 39,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-futbolok-polo-doglyad-dlya-stylnogo-vyglyadu",
+          "name": "Футболка поло",
+          "price": "620₴",
+          "price_individual": "890₴",
+          "note": null,
+          "description": "Комір поло пішов хвилями, а планка вигнулася дугою? Відновимо ідеальну геометрію піке, повернемо жорсткість стійці та виведемо засалені плями в Києві.",
+          "sort": 40,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-makhrovykh-khalativ-svizhist-i-komfort-vashogo-ulyublenogo-odyagu",
+          "name": "Халат махровий",
+          "price": "600₴",
+          "price_individual": "990₴",
+          "note": null,
+          "description": "Махровий халат став жорстким, сірим і погано вбирає вологу? Повернемо бавовні первинний об'єм, м'якість та проведемо повну антибактеріальну дезінфекцію ворсу.",
+          "sort": 41,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-shovkovykh-khalativ-elegantnyy-doglyad-dlya-delikatnykh-tkanyn",
+          "name": "Халат шовковий",
+          "price": "880₴",
+          "price_individual": "1,250₴",
+          "note": null,
+          "description": "Домашнє прання знищує натуральний шовк? Захистіть халат від жорстких заломів, втрати блиску та плям від косметики чи олій. Професійний догляд без ризику усадки.",
+          "sort": 42,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-khudi-profesiynyy-doglyad-dlya-vashogo-komfortu",
+          "name": "Худі",
+          "price": "800₴",
+          "price_individual": "1,200₴",
+          "note": null,
+          "description": "Худі втратило форму, а начіс став жорстким? Виведемо складні плями, приберемо ковтунці й засаленість. Повертаємо трикотажу об'єм та м'якість у Києві.",
+          "sort": 43,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-shortiv-idealna-chystota-dlya-vashogo-komfortu",
+          "name": "Шорти",
+          "price": "640₴",
+          "price_individual": "920₴",
+          "note": null,
+          "description": "Шорти перекосилися після прання, а плями від трави, ягід чи кремів не зникають? Повертаємо чітку геометрію пояса, виводимо складні літні забруднення без линяння.",
+          "sort": 44,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-klasychnykh-shtaniv-doglyad-za-elegantnym-stylem",
+          "name": "Штани класичні",
+          "price": "670₴",
+          "price_individual": "970₴",
+          "note": null,
+          "description": "Вовняні штани сіли після прання або з'явився лискучий блиск? Повертаємо тканині матову текстуру, виводимо плями від кави й солі та ідеально запрасовуємо стрілки.",
+          "sort": 45,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-sportyvnykh-shtaniv-ochyshchennya-dlya-aktyvnogo-sposobu-zhyttya",
+          "name": "Штани спортивні",
+          "price": "630₴",
+          "price_individual": "950₴",
+          "note": null,
+          "description": "Спортивні штани витягнулися на колінах, а начіс став жорстким? Приберемо ковтунці, засаленість та застарілий запах поту. Повертаємо трикотажу форму й еластичність.",
+          "sort": 46,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "sumki-ta-ryukzaki",
+      "title": "Сумки та рюкзаки",
+      "description": "Послуги категорії «Сумки та рюкзаки».",
+      "sort": 7,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/CRHY88k6syO4wc4rkcYOTPJZA3oQiy-metaRnJhbWUgMTY5Ni5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "valiza-tsina-vid",
+          "name": "Валіза (ціна від)",
+          "price": "2,300₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Глибока хімчистка дорожніх валіз у Києві. Видалення плям від мазуту, реагентів та скотчу. Антибактеріальна обробка підкладки.",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "ryukzak-tekstylnyy-tsina-vid",
+          "name": "Рюкзак текстильний (ціна від)",
+          "price": "1,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення текстильних та синтетичних рюкзаків у Києві. Видалення засаленості лямок, плям від ручок та косметики.",
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "ryukzak-shkiryanyy-tsina-vid",
+          "name": "Рюкзак шкіряний (ціна від)",
+          "price": "3,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення та кондиціонування шкіряних рюкзаків. Видалення засаленості, захист від тріщин та відновлення еластичності шкіри",
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "sumka-tekstylna-tsina-vid",
+          "name": "Сумка текстильна (ціна від)",
+          "price": "1,700₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення тканинних сумок в Києві. Виводимо плями від кави, косметики та джинсів.",
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "sumka-tekstylna-dorozhnya-z-dekorom-tsina-vid",
+          "name": "Сумка текстильна дорожня з декором (ціна від)",
+          "price": "3,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення текстильних сумок із декором, стразами та вишивкою. Безпечно для каркаса.",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "sumka-shkiryana-tsina-vid",
+          "name": "Сумка шкіряна (ціна від)",
+          "price": "4,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення шкіряних сумок у Києві. Виводимо засаленості на ручках, плями від косметики, чорнила та джинсів. Жирування шкіри.",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "sumka-shkiryana-dorozhnya-z-dekorom-tsina-vid",
+          "name": "Сумка шкіряна дорожня з декором (ціна від)",
+          "price": "5,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Шкіра на дорожній сумці пересохла, а метал потьмянів? Ми повернемо їй м'якість та блиск.",
+          "sort": 7,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "khimchistka-aksesuariv",
+      "title": "Хімчистка аксесуарів",
+      "description": "Послуги категорії «Хімчистка аксесуарів».",
+      "sort": 8,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/ZTHCgm65cEWL6Rg5qbmN8mKNNYVOq8-metaRnJhbWUgMTY5NS5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "chystka-tekstylnogo-bereta-profesiyne-prannya-ta-doglyad-za-golovnymy-uboramy",
+          "name": "Берет текстильний",
+          "price": "650₴",
+          "price_individual": "1,000₴",
+          "note": null,
+          "description": "Професійна хімчистка текстильних беретів у Києві. Видаляємо сліди косметики та себуму. Суха чистка на спеціальних формах без усадки та втрати форми виробу.",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-bodi-profesiynyy-doglyad-za-delikatnymy-tkanynamy",
+          "name": "Боді",
+          "price": "650₴",
+          "price_individual": "800₴",
+          "note": null,
+          "description": "Професійна хімчистка делікатних боді з шовку, мережива та мікросітки. Аквачистка без усадки, втрати компресії та розводів. Повне видалення плям і запахів.",
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-shkiryanykh-gamantsiv-ta-klatchiv---dbaylyvyy-doglyad-za-aksesuaramy",
+          "name": "Гаманець шкіряний (ціна від)",
+          "price": "1,200₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка та антибактеріальна обробка шкіряних гаманців у Києві. Напівсухе чищення слотів, оновлення урізів, живлення та кондиціонування шкіри.",
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "prannya-ta-chystka-kapelyukhiv-profesiyne-ochyshchennya-dlya-zberezhennya-vyglyadu",
+          "name": "Капелюх (ціна від)",
+          "price": "1,000₴",
+          "price_individual": "2,500₴",
+          "note": null,
+          "description": "Професійна хімчистка фетрових, солом'яних та текстильних капелюхів у Києві. Відновлення форми на болванках, видалення плям від поту, косметики та пилу.",
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "prannya-ta-chystka-kepok-ochyshchennya-dlya-stylyu-ta-komfortu",
+          "name": "Кепка",
+          "price": "1,000₴",
+          "price_individual": "1,300₴",
+          "note": null,
+          "description": "Професійна хімчистка та відновлення форми кепок і бейсболок у Києві. Очищення козирків без деформації, видалення плям від поту, косметики та розводів солі.",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "komir-naturalne-khutro-prannya-ta-doglyad-za-naturalnym-khutrom",
+          "name": "Комір з натурального хутра",
+          "price": "700₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка комірів з натурального хутра у Києві. Суха обробка, жирування мездри, вичісування ворсу та захист від молі. Видалення тонального крему і жиру.",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "komir-shtuchnyy-khutro-prannya-ta-doglyad-za-khutrovymy-vyrobamy",
+          "name": "Комір з штучного хутра",
+          "price": "400₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка та антистатична обробка комірів з еко-хутра у Києві. Аквачистка без термічної деформації. Видалення засаленості, косметики та ковтунів.",
+          "sort": 7,
+          "promo": false
+        },
+        {
+          "slug": "prannya-ta-chystka-korsetiv-vyshukanyy-doglyad-dlya-delikatnogo-odyagu",
+          "name": "Корсет",
+          "price": "950₴",
+          "price_individual": "1,200₴",
+          "note": null,
+          "description": "Професійна хімчистка корсетів у Києві. Безпечне очищення без деформації каркаса та іржі на кісточках. Видалення слідів поту, косметики та автозасмаги.",
+          "sort": 8,
+          "promo": false
+        },
+        {
+          "slug": "prannya-ta-chystka-kravatok-vash-styl-u-bezdogannomu-vyglyadi",
+          "name": "Краватка (ціна від)",
+          "price": "500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна суха хімчистка (Dry Clean) шовкових та вовняних краваток у Києві. Видалення плям від кави, жиру та соусів із збереженням об'єму та «живого краю».",
+          "sort": 9,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-kupalnykiv-profesiynyy-doglyad-za-plyazhnym-odyagom",
+          "name": "Купальник",
+          "price": "800₴",
+          "price_individual": "1,000₴",
+          "note": null,
+          "description": "Професійна хімчистка та дезінфекція купальників у Києві. Нейтралізація хлору, солі та SPF-кремів. Аквачистка без усадки, втрати кольору та деформації чашок.",
+          "sort": 10,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-palantyniv-profesiynyy-doglyad-za-delikatnymy-tkanynamy",
+          "name": "Палантин",
+          "price": "650₴",
+          "price_individual": "940₴",
+          "note": null,
+          "description": "Професійна хімчистка палантинів із кашеміру, вовни та шовку в Києві. Суха чистка без усадки та ковтунів. Видалення слідів косметики, себуму та запахів.",
+          "sort": 11,
+          "promo": false
+        },
+        {
+          "slug": "panama",
+          "name": "Панама",
+          "price": "700₴",
+          "price_individual": "950₴",
+          "note": null,
+          "description": "Професійна хімчистка та відновлення форми панам із бавовни, льону та деніму в Києві. Сушка на болванках без усадки. Видалення плям від поту, солі та косметики.",
+          "sort": 12,
+          "promo": false
+        },
+        {
+          "slug": "chystka-remenya-z-tekstylyu-profesiyne-prannya-ta-doglyad",
+          "name": "Ремінь із текстилю",
+          "price": "550₴",
+          "price_individual": "740₴",
+          "note": null,
+          "description": "Професійна хімчистка текстильних та плетених ременів у Києві. Видалення зафарбувань від джинсів, жиру, слідів окислення фурнітури без деформації аксесуара.",
+          "sort": 13,
+          "promo": false
+        },
+        {
+          "slug": "chystka-lyzhnykh-rukavychok-profesiyne-prannya-ta-doglyad-za-zymovymy-aksesuaramy",
+          "name": "Рукавички лижні (пара)",
+          "price": "900₴",
+          "price_individual": "1,100₴",
+          "note": null,
+          "description": "Професійна хімчистка лижних рукавичок у Києві. Очищення мембран (Gore-Tex), відновлення водовідштовхувального шару DWR, видалення мастила та дезінфекція.",
+          "sort": 14,
+          "promo": false
+        },
+        {
+          "slug": "chystka-tekstylnykh-rukavychok-profesiyne-prannya-ta-doglyad",
+          "name": "Рукавички текстильні (пара)",
+          "price": "600₴",
+          "price_individual": "900₴",
+          "note": null,
+          "description": "Професійна хімчистка та дезінфекція рукавичок із вовни, кашеміру та флісу в Києві. Аквачистка без усадки, збереження сенсорних зон та видалення катишків.",
+          "sort": 15,
+          "promo": false
+        },
+        {
+          "slug": "prannya-ta-chystka-faty-doskonala-chystota-dlya-vashogo-vesilnogo-obrazu",
+          "name": "Фата (ціна від)",
+          "price": "700₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка весільної фати у Києві. Делікатне очищення євросітки, тюлю та шовку без втрати форми. Видалення плям від лаку, косметики та трави.",
+          "sort": 16,
+          "promo": false
+        },
+        {
+          "slug": "prannya-ta-chystka-khustky-zberezhennya-vytonchenosti-ta-krasy",
+          "name": "Хустка",
+          "price": "600₴",
+          "price_individual": "850₴",
+          "note": null,
+          "description": "Професійна хімчистка шовкових та вовняних хусток у Києві. Суха чистка без линьки принтів, збереження шва роуль, видалення плям від косметики та парфумів.",
+          "sort": 17,
+          "promo": false
+        },
+        {
+          "slug": "shal-tsina-vid",
+          "name": "Шаль (ціна від)",
+          "price": "600₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка шалей із кашеміру, пашміни та шовку в Києві. Очищення бахроми без сплутування, відновлення пухнастості вовни та захист від молі.",
+          "sort": 18,
+          "promo": false
+        },
+        {
+          "slug": "prannya-ta-chystka-shapok-profesiyne-ochyshchennya-dlya-zberezhennya-vyglyadu",
+          "name": "Шапка",
+          "price": "700₴",
+          "price_individual": "1,000₴",
+          "note": null,
+          "description": "Професійна хімчистка в'язаних, вовняних та кашемірових шапок у Києві. Очищення хутряних помпонів, видалення слідів косметики та себуму без усадки виробу.",
+          "sort": 19,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-sharfiv-profesiyna-chystka-sharfiv-bud-yakykh-tkanyn",
+          "name": "Шарф (ціна від)",
+          "price": "700₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка шарфів із кашеміру, вовни та шовку в Києві. Очищення без ковтунців та усадки. Видалення слідів тонального крему, парфумів та дезінфекція.",
+          "sort": 20,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "m-yaki-mebli",
+      "title": "М'які меблі",
+      "description": "Послуги категорії «М'які меблі».",
+      "sort": 9,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/eYBIZuUfJVf063fXHa7d6RA1gyZVA7-metaRnJhbWUgMTcxMS5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "chystka-tonkykh-matratsiv",
+          "name": "Матрац тонкий по типу Dormeo (ціна від)",
+          "price": "2,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Чому не можна прати топер вдома? Професійна низьковологова хімчистка тонких матраців. Видалення плям, запахів та пилових кліщів. Безпечно для здоров'я!",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "matrats-chyshchennya-tsina-vid",
+          "name": "Матрац, чищення (ціна від)",
+          "price": "3,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Глибока хімчистка матраців на фабриці. Видалення пилових кліщів, біологічних плям та запахів. Безпечна хімія, висихання за кілька годин. Заберемо і повернемо самі!",
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "chystka-pufiv",
+          "name": "Пуф (ціна від)",
+          "price": "1,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Глибока хімчистка пуфів та банкеток в Києві. Виведемо застарілі плями, бруд від взуття та неприємні запахи. Самі заберемо та повернемо чистими!",
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "profesiyna-chystka-dyvaniv",
+          "name": "Чистка дивану",
+          "price": "Ціна за запитом",
+          "price_individual": null,
+          "note": null,
+          "description": "Глибока хімчистка диванів. Видалення застарілих плям від їжі, вина, сечі та шерсті тварин. Працює кур’єрська служба!",
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "profesiyna-chystka-krisel",
+          "name": "Чистка крісла (ціна від)",
+          "price": "1,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Глибока хімчистка офісних та домашніх. Видалення застарілого жиру з підлокітників, плям та запахів. Кур'єрська доставка по Києву.",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "profesiyna-chystka-stiltsiv",
+          "name": "Чистка стільця (ціна від)",
+          "price": "750₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Хімчистка м'яких стільців. Видалення плям від їжі, кави та засаленості. Працює кур’єр по Києву!",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "chystka-tekstylnykh-elementiv-lizhka",
+          "name": "Чистка текстильних елементів ліжка (ціна від)",
+          "price": "2,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення текстильних елементів ліжка. Знищення пилових кліщів, видалення плям та запахів.",
+          "sort": 7,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shkiryanykh-elementiv-lizhka",
+          "name": "Чистка шкіряних елементів ліжка (ціна від)",
+          "price": "2,800₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення та зволоження шкіряних елементів ліжка. Захист від тріщин, видалення засаленості та плям. Продовжте життя дорогим меблям!",
+          "sort": 8,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "title": "Хімчистка одягу з шкіри та хутра",
+      "description": "Послуги категорії «Хімчистка одягу з шкіри та хутра».",
+      "sort": 10,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/9ipghnTfGpTZsFe6sIDCeZPHLX4kOh-metaRnJhbWUgMTcwMC5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "chystka-dovgoyi-shkiryanoyi-dublyanky",
+          "name": "Дублянка довга шкіряна (від 90 см)",
+          "price": "4,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Безпечна хімчистка дублянок з натуральної шкіри та хутра. Видалення плям, оновлення кольору. Власна кур'єрська служба: заберемо та привеземо назад.",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "chystka-dublyanky-korotkoyi-shkiryanoyi",
+          "name": "Дублянка коротка шкіряна (до 70 см)",
+          "price": "3,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка коротких дублянок. Видалення плям, відновлення кольору та м'якості шкіри. Є свій кур'єр: заберемо та привеземо назад.",
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "chystka-dublyanky-serednoyi-shkiryanoyi",
+          "name": "Дублянка середня шкіряна (до 90 см)",
+          "price": "3,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка дублянок міді (до коліна). Очищення від солі та реагентів, ревіталізація шкіри, відновлення хутра. Безкоштовний кур'єр забере і поверне.",
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shkiryanogo-zhyleta",
+          "name": "Жилет шкіряний",
+          "price": "1,700₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка шкіряних жилетів у Києві. Видалення засаленості з коміра, відновлення м'якості шкіри. Кур'єр забере та поверне річ назад.",
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "chystka-zhyletok-ta-pidstibky-z-naturalnogo-khutra",
+          "name": "Жилет/підстібка із натурального хутра (ціна від)",
+          "price": "2,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка жилетів та підстібок з натурального хутра в Києві. Відновлення блиску ворсу. Кур'єр забере і привезе.",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shkiryanogo-komira",
+          "name": "Комір шкіряний",
+          "price": "900₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення та детоксикація комірів шкіряних курток і плащів у Києві. Видалення засаленості, слідів косметики та парфумів. Кур'єр забере і привезе.",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shkiryanoyi-kurtky",
+          "name": "Куртка шкіряна",
+          "price": "3,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка та SPA-ревіталізація шкіряних курток і плащів у Києві. Відновлення ліпідного балансу та м'якості. Кур'єр забере і привезе.",
+          "sort": 7,
+          "promo": false
+        },
+        {
+          "slug": "chystka-pivshubka-z-naturalnogo-khutra",
+          "name": "Напівшубок із натурального хутра (до 70 см, ціна від)",
+          "price": "3,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна суха хімчистка (Dry Cleaning) напівшубків у Києві. Відновлення еластичності мездри та блиску хутра. Кур'єр по Києву.",
+          "sort": 8,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shkiryanogo-plashcha",
+          "name": "Плащ шкіряний (від 110 см)",
+          "price": "4,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка шкіряних плащів (від 110 см) у Києві. Видалення солей, реагентів із подолу, відновлення кольору та м'якості. Безкоштовна доставка кур'єром.",
+          "sort": 9,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shkiryanogo-plashcha",
+          "name": "Плащ шкіряний (до 110 см)",
+          "price": "4,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка шкіряних плащів (до 110 см) у Києві. Виведення плям, усунення заломів від автосидінь, глибоке жирування. Кур'єр забере і привезе.",
+          "sort": 10,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shkiryanogo-pidzhaka",
+          "name": "Піджак шкіряний",
+          "price": "3,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка піджаків та жакетів з тонкої натуральної шкіри у Києві. Збереження форми лацканів, виведення плям. Безкоштовний кур'єр забере і привезе.",
+          "sort": 11,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shkiryanoyi-sorochky",
+          "name": "Сорочка шкіряна",
+          "price": "2,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка сорочок з тонкої шкіри, лайки та замші в Києві. Технологія Soft Care, виведення плям, жирування. Безкоштовний кур'єр забере і привезе",
+          "sort": 12,
+          "promo": false
+        },
+        {
+          "slug": "chystka-spidnyts",
+          "name": "Спідниця шкіряна (ціна від)",
+          "price": "1,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка спідниць із натуральної шкіри та замші в Києві. Відновлення форми, усунення засаленості. Кур'єр від дверей.",
+          "sort": 13,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shkiryanykh-sukon",
+          "name": "Сукня шкіряна (ціна від)",
+          "price": "2,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка суконь із тонкої натуральної шкіри у Києві. Збереження силуету, технологія Soft Care. Кур'єр від дверей.",
+          "sort": 14,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shkiryanykh-short",
+          "name": "Шорти шкіряні (ціна від)",
+          "price": "1,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка та дезінфекція шортів із натуральної шкіри в Києві. Усунення засаленості, відновлення кольору. Кур'єр від дверей",
+          "sort": 15,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shkiryanykh-shtaniv",
+          "name": "Штани шкіряні",
+          "price": "2,000₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка штанів із натуральної шкіри в Києві. Усунення «мішків» на колінах, видалення солей та реагентів. Кур'єр від дверей",
+          "sort": 16,
+          "promo": false
+        },
+        {
+          "slug": "chystka-shuby-z-naturalnogo-khutra",
+          "name": "Шуба з натурального хутра (від 70 см, ціна від)",
+          "price": "3,700₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка натурального хутра у Києві. Технологія Fur Care: захист від молі, відновлення блиску та еластичності мездри. Доставка кур'єром.",
+          "sort": 17,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "prays-praski",
+      "title": "Прайс праски",
+      "description": "Послуги категорії «Прайс праски».",
+      "sort": 11,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/wa2rtlbDMXzamjbKgunVym4yYzRkPY-metaZnJlZS1pY29uLWlyb24tODY1MjczOS5wbmcuc3Zn-.svg",
+      "services": [
+        {
+          "slug": "prasuvannya-bluzy",
+          "name": "Прасування БЛУЗА",
+          "price": "180₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та відпарювання повсякденних блуз у Києві. Ідеальна геометрія комірів та манжетів на вакуумних столах без заломів, пропалів та лас.",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-shovkovoyi-bluzy-z-ryushamy-ta-obrobkoyu",
+          "name": "Прасування БЛУЗА ШОВКОВА. З РЮШАМИ, З ОБРОБКОЮ",
+          "price": "230₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та відпарювання шовкових блуз із рюшами у Києві. Робота на пароманекенах без контакту з праскою, захист від пропалів та лас.",
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-bryuk",
+          "name": "Прасування БРЮКИ",
+          "price": "180₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування брюк у Києві. Формування стійких стрілок на спецпресах (топерах), захист вовни від лиску та деформації кишень. Ідеальна геометрія.",
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-kravatky",
+          "name": "Прасування КРАВАТКА",
+          "price": "120₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та відпарювання шовкових і вовняних краваток у Києві. Безконтактна обробка парою без лас, блиску та сплющення внутрішньої підкладки",
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-kurtky",
+          "name": "Прасування КУРТКА",
+          "price": "260₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та відпарювання курток і пуховиків у Києві. Відновлення об'єму наповнювача на пароманекенах, захист мембран від блиску та оплавлення.",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-pidzhaka",
+          "name": "Прасування ПІДЖАК",
+          "price": "190₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та відпарювання чоловічих і жіночих піджаків у Києві. Безконтактне формування на пароманекенах, захист лацканів та вовни від лас.",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-palto",
+          "name": "Прасування ПАЛЬТО",
+          "price": "260₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та відпарювання пальт із вовни і кашеміру в Києві. Безконтактне підняття ворсу на пароманекенах, фіксація лацканів та ліній плечей.",
+          "sort": 7,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-plashcha",
+          "name": "Прасування ПЛАЩ",
+          "price": "260₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та відпарювання плащів і тренчів у Києві. Вертикальна обробка парою без лас, захист водовідштовхувального просочення та фурнітури.",
+          "sort": 8,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-postilnoyi-bilyzny",
+          "name": "Прасування ПОСТІЛЬНА БІЛИЗНА",
+          "price": "200₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування постільної білизни в Києві на промислових котках (каландрах). Ідеальна гладкість без заломів, термічна дезінфекція та готельний затишок.",
+          "sort": 9,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-svetra",
+          "name": "Прасування СВЕТР",
+          "price": "180₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та ВТО светрів, кардиганів і кашемірових пуловерів у Києві. Безконтактне відпарювання на пароманекенах без усадки, лас та розтягування.",
+          "sort": 10,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-sorochky",
+          "name": "Прасування СОРОЧКА",
+          "price": "180₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування сорочок у Києві. Жорсткість комірів та манжетів на термопресах, прасування рукавів без стрілок на вакуумних столах. Без лас та заломів.",
+          "sort": 11,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-spidnytsi",
+          "name": "Прасування СПІДНИЦЯ",
+          "price": "180₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування спідниць у Києві. Безконтактне ВТО на вакуумних столах та вигнутих колодках. Захист вовни від лас, фіксація пояса та подолу без заломів.",
+          "sort": 12,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-spidnytsi-plise",
+          "name": "Прасування СПІДНИЦЯ ПЛІСЕ",
+          "price": "320₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та відновлення спідниць і суконь плісе в Києві. Термофіксація та вирівнювання кожної складки без лас, заломів та ефекту бульбашок.",
+          "sort": 13,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-sukni",
+          "name": "Прасування СУКНЯ",
+          "price": "Ціна за запитом",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та відпарювання суконь у Києві. Відновлення тривимірного силуету на пароманекенах, обробка воланів та рюшів без лас і заломів.",
+          "sort": 14,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-vesilnoyi-ta-vechirnoyi-sukni",
+          "name": "Прасування СУКНЯ ВЕСІЛЬНА, ВЕЧІРНЕ",
+          "price": "800₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та відпарювання вечірніх та весільних суконь у Києві. Відновлення тривимірного силуету на пароманекенах, обробка воланів та рюшів.",
+          "sort": 15,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-topa-mayky-futbolky",
+          "name": "Прасування ТОП/МАЙКА/ФУТБОЛКА",
+          "price": "90₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування та відпарювання футболок, топів і майок у Києві. Відновлення форми трикотажу на пароманекенах, захист принтів та наклейок від оплавлення.",
+          "sort": 16,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-futbolky",
+          "name": "Прасування ФУТБОЛКА",
+          "price": "140₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування футболок у Києві. Вирівнювання перекручених швів, відновлення форми коміра на пароманекенах, захист принтів та логотипів від лас.",
+          "sort": 17,
+          "promo": false
+        },
+        {
+          "slug": "prasuvannya-shtor-ta-tyulyu",
+          "name": "Прасування ШТОРИ/ТЮЛЬ",
+          "price": "Ціна за запитом",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне прасування штор, блекаутів та делікатного тюлю в Києві. Безконтактне вертикальне відпарювання без горизонтальних заломів, лас та усадки тканини.",
+          "sort": 18,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "dlya-ulyublentsiv",
+      "title": "Для улюбленців",
+      "description": "Послуги категорії «Для улюбленців».",
+      "sort": 12,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/rgaIFrJqx68Uhkq8eoc7J4nuMB2ua5-metaRnJhbWUgMTcxMi5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "khimchystka-vzuttya-dlya-ulyublentsya",
+          "name": "Взуття улюбленця",
+          "price": "350₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення та дезінфекція захисних черевичків для собак і котів у Києві. Виводимо запахи сечі, плями від реагентів та мазуту",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "kylym-ulyublentsya",
+          "name": "Килим улюбленця",
+          "price": "600₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Глибока хімчистка та прання килимків для домашніх тварин у Києві. Повне видалення застарілих плям сечі, крові, жиру та в'їденої шерсті.",
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-kostyumu-dlya-ulyublentsya",
+          "name": "Костюм улюбленця",
+          "price": "650₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка делікатних костюмів, комбінезонів та велюрового одягу собак і котів у Києві. Безпечно для декору та фурнітури.",
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-budynku-lezhaku-dlya-ulyublentsya",
+          "name": "Лежак для улюбленця (ціна від)",
+          "price": "1,300₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Екологічна хімчистка та озонування лежанок для тварин у Києві. Антибактеріальна обробка, видалення плям та стійких запахів міток.",
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-lezhanok-ta-dyvaniv-dlya-ulyublentsiv",
+          "name": "Лежанка/Диван улюбленця",
+          "price": "570₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка та ревіталізація великих лежанок-диванів для тварин у Києві. Глибоке промивання наповнювача, видалення запаху шерсті.",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-matratsiv-dlya-ulyublentsiv",
+          "name": "Матрац улюбленця",
+          "price": "1,100₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка матраців для собак та котів у Києві. Глибоке очищення наповнювача від сечі, в'їденої шерсті та запахів без деформації.",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-nashyynykiv-ta-povodkiv-dlya-ulyublentsiv",
+          "name": "Нашийник/Поводок",
+          "price": "390₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення амуніції для тварин (шкіра, нейлон, біотан) у Києві. Усуваємо запах мокрої собаки, жир, піт та бруд, відновлюємо колір.",
+          "sort": 7,
+          "promo": false
+        },
+        {
+          "slug": "ryukzak-sumka-perenoska-sht",
+          "name": "Рюкзак/сумка-переноска (шт.)",
+          "price": "1,300₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Делікатна хімчистка рюкзаків та сумок-переносок для котів і собак у Києві. Видаляємо шерсть, плями та застояні запахи зсередини",
+          "sort": 8,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-svetriv-dlya-ulyublentsiv",
+          "name": "Светр улюбленця",
+          "price": "240₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Делікатна хімчистка в'язаного одягу та светрів для домашніх тварин у Києві. Відновлення м'якості пряжі, видалення запахів сирості та плям.",
+          "sort": 9,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-sukon-dlya-ulyublentsiv",
+          "name": "Сукня улюбленця",
+          "price": "210₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка суконь та делікатного святкового одягу для тварин у Києві. Дбайливе видалення плям від трави та бруду зі збереженням декору.",
+          "sort": 10,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-uteplenogo-zhyletu-dlya-ulyublentsya",
+          "name": "Утеплений жилет для улюбленця",
+          "price": "335₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Делікатна хімчистка жилетів на пуху та холофайбері для тварин у Києві. Повне видалення дорожньої солі, реагентів, жиру та застарілих запахів",
+          "sort": 11,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-uteplenykh-kurtok-ta-kombinezoniv-dlya-ulyublentsiv",
+          "name": "Утеплений куртка/комбез улюбленця",
+          "price": "335₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка та аквачистка утепленого одягу для собак і котів у Києві. Зберігаємо мембрану, водовідштовхувальне просочення та об'єм пуху.",
+          "sort": 12,
+          "promo": false
+        },
+        {
+          "slug": "khatynka-sht",
+          "name": "Хатинка (шт.)",
+          "price": "900₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Глибока хімчистка текстильних та поролонових хатинок для котів і собак у Києві. Вимиваємо наповнювач наскрізь, знищуємо мітки, кліщів та запахи.",
+          "sort": 13,
+          "promo": false
+        },
+        {
+          "slug": "khimchystka-shtaniv-dlya-ulyublentsya",
+          "name": "Штани улюбленця",
+          "price": "210₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення брудозахисних штанів та комбінезонів на лапи у Києві. Видаляємо мазут, смолу, реагенти. Відновлюємо водовідштовхувальний шар.",
+          "sort": 14,
+          "promo": false
+        }
+      ]
+    },
+    {
+      "slug": "igrashki-ta-dityachi-rechi",
+      "title": "Іграшки та дитячі речі",
+      "description": "Послуги категорії «Іграшки та дитячі речі».",
+      "sort": 13,
+      "icon_url": "https://enot-api.qpanel-erp.online/storage/src/categories_images/qSDPdC9hDlpTvveNpD3ft17Gb5EPGQ-metaRnJhbWUgMTcwOC5zdmc=-.svg",
+      "services": [
+        {
+          "slug": "igrashka-vid-1-m-tsina-vid",
+          "name": "Іграшка від 1 м (ціна від)",
+          "price": "1,900₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка величезних м'яких іграшок (від 1 метра). Глибока екстракція пилу, знищення кліщів та сушіння без втрати форми.",
+          "sort": 1,
+          "promo": false
+        },
+        {
+          "slug": "igrashka-vid-50-sm-do-1-m",
+          "name": "Іграшка від 50 см до 1 м",
+          "price": "800₴",
+          "price_individual": "1,050₴",
+          "note": null,
+          "description": "Делікатна хімчистка та дезінфекція м'яких іграшок середнього розміру (50–100 см) у Києві. Безпечне виведення плям та сушіння без грудок.",
+          "sort": 2,
+          "promo": false
+        },
+        {
+          "slug": "avtokrislo-tsina-vid",
+          "name": "Автокрісло (ціна від)",
+          "price": "2,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійна хімчистка та дезінфекція дитячих автокрісел у Києві. Видалення плям від молока, пюре, сечі та біозабруднень гіпоалергенними засобами.",
+          "sort": 3,
+          "promo": false
+        },
+        {
+          "slug": "dytyachyy-vizok-tsina-vid",
+          "name": "Дитячий візок (ціна від)",
+          "price": "4,500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійне чищення та дезінфекція дитячих візків у Києві. Виведення плям, антибактеріальна обробка матрациків, миття та змащування шасі.",
+          "sort": 4,
+          "promo": false
+        },
+        {
+          "slug": "dytyachyy-konvert",
+          "name": "Дитячий конверт",
+          "price": "800₴",
+          "price_individual": "1,200₴",
+          "note": null,
+          "description": "Гіпоалергенна хімчистка зимових дитячих конвертів на пуху та овчині у Києві. Видалення плям від сумішей, безпечна дезінфекція та відновлення об'єму.",
+          "sort": 5,
+          "promo": false
+        },
+        {
+          "slug": "kombinezon-dytyachyy-uteplenyy",
+          "name": "Комбінезон дитячий утеплений",
+          "price": "900₴",
+          "price_individual": "1,200₴",
+          "note": null,
+          "description": "Професійна хімчистка та аквачистка дитячих мембранних і пухових комбінезонів у Києві. Відновлення об'єму (Loft) та водовідштовхувального шару DWR.",
+          "sort": 6,
+          "promo": false
+        },
+        {
+          "slug": "posluga-demontazh-montazh-dytyachogo-vizka",
+          "name": "Послуга демонтаж/монтаж дитячого візка",
+          "price": "500₴",
+          "price_individual": null,
+          "note": null,
+          "description": "Професійний демонтаж та монтаж текстилю дитячих візків перед хімчисткою в Києві. Гарантія збереження кріплень, фіксаторів та безпеки ременів.",
+          "sort": 7,
+          "promo": false
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "categories": 13,
+    "services": 239
+  }
+}

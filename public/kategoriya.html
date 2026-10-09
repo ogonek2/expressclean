@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Переадресація…</title>
+    <script>
+      ;(function () {
+        var params = new URLSearchParams(location.search)
+        var slug = params.get("slug")
+        location.replace(
+          slug ? "/poslugi/" + encodeURIComponent(slug) + "/" : "/poslugi/",
+        )
+      })()
+    </script>
+  </head>
+  <body>
+    <p><a href="/poslugi/">Перейти до каталогу послуг</a></p>
+  </body>
+</html>

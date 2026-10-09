@@ -1,0 +1,1897 @@
+{
+  "data": [
+    {
+      "id": 1142,
+      "name": "UGG",
+      "href": "ugg",
+      "categoryHref": "khimchistka-vzuttya",
+      "categoryTitle": "Хімчистка взуття",
+      "price": "1,900₴",
+      "url": "/poslugi-ta-cini/khimchistka-vzuttya/posluga/ugg"
+    },
+    {
+      "id": 1152,
+      "name": "UGG",
+      "href": "ugg",
+      "categoryHref": "remont-vzuttya",
+      "categoryTitle": "Ремонт взуття",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/remont-vzuttya/posluga/ugg"
+    },
+    {
+      "id": 218,
+      "name": "Автокрісло (ціна від)",
+      "href": "avtokrislo-tsina-vid",
+      "categoryHref": "igrashki-ta-dityachi-rechi",
+      "categoryTitle": "Іграшки та дитячі речі",
+      "price": "2,500₴",
+      "url": "/poslugi-ta-cini/igrashki-ta-dityachi-rechi/posluga/avtokrislo-tsina-vid"
+    },
+    {
+      "id": 145,
+      "name": "Автомобільні килими (до 5 шт., за шт.)",
+      "href": "chystka-avtomobilnykh-kylymkiv",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "1,000₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/chystka-avtomobilnykh-kylymkiv"
+    },
+    {
+      "id": 1150,
+      "name": "Балетки",
+      "href": "baletky",
+      "categoryHref": "khimchistka-vzuttya",
+      "categoryTitle": "Хімчистка взуття",
+      "price": "1,950₴",
+      "url": "/poslugi-ta-cini/khimchistka-vzuttya/posluga/baletky"
+    },
+    {
+      "id": 1160,
+      "name": "Балетки",
+      "href": "baletky",
+      "categoryHref": "remont-vzuttya",
+      "categoryTitle": "Ремонт взуття",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/remont-vzuttya/posluga/baletky"
+    },
+    {
+      "id": 91,
+      "name": "Берет текстильний",
+      "href": "chystka-tekstylnogo-bereta-profesiyne-prannya-ta-doglyad-za-golovnymy-uboramy",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "650₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/chystka-tekstylnogo-bereta-profesiyne-prannya-ta-doglyad-za-golovnymy-uboramy"
+    },
+    {
+      "id": 81,
+      "name": "Білизна (комплект)",
+      "href": "khimchystka-komplektu-bilyzny-profesiyne-ochyshchennya-dlya-vashogo-komfortu",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "400₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-komplektu-bilyzny-profesiyne-ochyshchennya-dlya-vashogo-komfortu"
+    },
+    {
+      "id": 80,
+      "name": "Білизна кг ( мінімальне завантаження 10 кг )",
+      "href": "khimchystka-bilyzny-profesiyne-ochyshchennya-ta-doglyad-za-vashoyu-bilyznoyu",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "65₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-bilyzny-profesiyne-ochyshchennya-ta-doglyad-za-vashoyu-bilyznoyu"
+    },
+    {
+      "id": 197,
+      "name": "Блуза простого крою",
+      "href": "khimchystka-bluz-u-kyyevi-idealna-chystota-ta-doglyad",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "560₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-bluz-u-kyyevi-idealna-chystota-ta-doglyad"
+    },
+    {
+      "id": 198,
+      "name": "Блуза шовкова/з декором",
+      "href": "khimchystka-bluz-u-kyyevi-idealna-chystota-ta-doglyad",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "820₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-bluz-u-kyyevi-idealna-chystota-ta-doglyad"
+    },
+    {
+      "id": 101,
+      "name": "Боді",
+      "href": "khimchystka-bodi-profesiynyy-doglyad-za-delikatnymy-tkanynamy",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "650₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/khimchystka-bodi-profesiynyy-doglyad-za-delikatnymy-tkanynamy"
+    },
+    {
+      "id": 1144,
+      "name": "Босоніжки",
+      "href": "bosonizhky",
+      "categoryHref": "khimchistka-vzuttya",
+      "categoryTitle": "Хімчистка взуття",
+      "price": "1,950₴",
+      "url": "/poslugi-ta-cini/khimchistka-vzuttya/posluga/bosonizhky"
+    },
+    {
+      "id": 1154,
+      "name": "Босоніжки",
+      "href": "bosonizhky",
+      "categoryHref": "remont-vzuttya",
+      "categoryTitle": "Ремонт взуття",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/remont-vzuttya/posluga/bosonizhky"
+    },
+    {
+      "id": 1143,
+      "name": "Ботфорди",
+      "href": "botfordy",
+      "categoryHref": "khimchistka-vzuttya",
+      "categoryTitle": "Хімчистка взуття",
+      "price": "3,300₴",
+      "url": "/poslugi-ta-cini/khimchistka-vzuttya/posluga/botfordy"
+    },
+    {
+      "id": 1153,
+      "name": "Ботфорди",
+      "href": "botfordy",
+      "categoryHref": "remont-vzuttya",
+      "categoryTitle": "Ремонт взуття",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/remont-vzuttya/posluga/botfordy"
+    },
+    {
+      "id": 227,
+      "name": "Валіза (ціна від)",
+      "href": "valiza-tsina-vid",
+      "categoryHref": "sumki-ta-ryukzaki",
+      "categoryTitle": "Сумки та рюкзаки",
+      "price": "2,300₴",
+      "url": "/poslugi-ta-cini/sumki-ta-ryukzaki/posluga/valiza-tsina-vid"
+    },
+    {
+      "id": 181,
+      "name": "Взуття улюбленця",
+      "href": "khimchystka-vzuttya-dlya-ulyublentsya",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "350₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khimchystka-vzuttya-dlya-ulyublentsya"
+    },
+    {
+      "id": 201,
+      "name": "Вишита сорочка",
+      "href": "vyshyta-sorochka",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "870₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/vyshyta-sorochka"
+    },
+    {
+      "id": 2,
+      "name": "Вишита сукня",
+      "href": "khimchystka-vyshytykh-sukon-u-kyyevi-profesiyne-delikatne-chyshchennya",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "1,190₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-vyshytykh-sukon-u-kyyevi-profesiyne-delikatne-chyshchennya"
+    },
+    {
+      "id": 42,
+      "name": "Вітровка",
+      "href": "khimchystka-vitrovok-profesiynyy-doglyad-za-verkhnim-odyagom-dlya-bud-yakoyi-pogody",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "830₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-vitrovok-profesiynyy-doglyad-za-verkhnim-odyagom-dlya-bud-yakoyi-pogody"
+    },
+    {
+      "id": 99,
+      "name": "Гаманець шкіряний (ціна від)",
+      "href": "khimchystka-shkiryanykh-gamantsiv-ta-klatchiv---dbaylyvyy-doglyad-za-aksesuaramy",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "1,200₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/khimchystka-shkiryanykh-gamantsiv-ta-klatchiv---dbaylyvyy-doglyad-za-aksesuaramy"
+    },
+    {
+      "id": 4,
+      "name": "Гольф",
+      "href": "khimchystka-golfiv-u-kyyevi-delikatnyy-doglyad-za-vashym-odyagom",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "530₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-golfiv-u-kyyevi-delikatnyy-doglyad-za-vashym-odyagom"
+    },
+    {
+      "id": 9,
+      "name": "Джемпер",
+      "href": "khimchystka-dzhemperiv-u-kyyevi-profesiynyy-doglyad-za-vashym-odyagom",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "580₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-dzhemperiv-u-kyyevi-profesiynyy-doglyad-za-vashym-odyagom"
+    },
+    {
+      "id": 10,
+      "name": "Джинси",
+      "href": "khimchystka-dzhynsiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-dzhynsamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "770₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-dzhynsiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-dzhynsamy"
+    },
+    {
+      "id": 219,
+      "name": "Дитячий візок (ціна від)",
+      "href": "dytyachyy-vizok-tsina-vid",
+      "categoryHref": "igrashki-ta-dityachi-rechi",
+      "categoryTitle": "Іграшки та дитячі речі",
+      "price": "4,500₴",
+      "url": "/poslugi-ta-cini/igrashki-ta-dityachi-rechi/posluga/dytyachyy-vizok-tsina-vid"
+    },
+    {
+      "id": 216,
+      "name": "Дитячий конверт",
+      "href": "dytyachyy-konvert",
+      "categoryHref": "igrashki-ta-dityachi-rechi",
+      "categoryTitle": "Іграшки та дитячі речі",
+      "price": "800₴",
+      "url": "/poslugi-ta-cini/igrashki-ta-dityachi-rechi/posluga/dytyachyy-konvert"
+    },
+    {
+      "id": 123,
+      "name": "Дублянка довга шкіряна (від 90 см)",
+      "href": "chystka-dovgoyi-shkiryanoyi-dublyanky",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "4,000₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-dovgoyi-shkiryanoyi-dublyanky"
+    },
+    {
+      "id": 121,
+      "name": "Дублянка коротка шкіряна (до 70 см)",
+      "href": "chystka-dublyanky-korotkoyi-shkiryanoyi",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "3,000₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-dublyanky-korotkoyi-shkiryanoyi"
+    },
+    {
+      "id": 122,
+      "name": "Дублянка середня шкіряна (до 90 см)",
+      "href": "chystka-dublyanky-serednoyi-shkiryanoyi",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "3,500₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-dublyanky-serednoyi-shkiryanoyi"
+    },
+    {
+      "id": 57,
+      "name": "Дублянка штучна від 70 см",
+      "href": "khimchystka-podovzhenoyi-shtuchnoyi-dublyanky-doglyad-dlya-vashogo-stylnogo-zymovogo-verkhnogo-odyagu",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "1,400₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-podovzhenoyi-shtuchnoyi-dublyanky-doglyad-dlya-vashogo-stylnogo-zymovogo-verkhnogo-odyagu"
+    },
+    {
+      "id": 56,
+      "name": "Дублянка штучна до 70 см",
+      "href": "khimchystka-shtuchnoyi-dublyanky-do-70-sm-profesiynyy-doglyad-dlya-zymovogo-verkhnogo-odyagu",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "1,150₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-shtuchnoyi-dublyanky-do-70-sm-profesiynyy-doglyad-dlya-zymovogo-verkhnogo-odyagu"
+    },
+    {
+      "id": 70,
+      "name": "Жалюзі з текстилю",
+      "href": "khimchystka-tekstylnykh-zhalyuzi-profesiyne-ochyshchennya-dlya-vashogo-komfortu",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "580₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-tekstylnykh-zhalyuzi-profesiyne-ochyshchennya-dlya-vashogo-komfortu"
+    },
+    {
+      "id": 11,
+      "name": "Жилет",
+      "href": "khimchystka-zhyletiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-zhyletamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "500₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-zhyletiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-zhyletamy"
+    },
+    {
+      "id": 210,
+      "name": "Жилет синтепон/пух",
+      "href": "zhylet-syntepon-pukh",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "890₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/zhylet-syntepon-pukh"
+    },
+    {
+      "id": 134,
+      "name": "Жилет шкіряний",
+      "href": "chystka-shkiryanogo-zhyleta",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "1,700₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-shkiryanogo-zhyleta"
+    },
+    {
+      "id": 62,
+      "name": "Жилет штучне хутро",
+      "href": "khimchystka-zhyleta-z-shtuchnogo-khutra-profesiynyy-doglyad-dlya-vashogo-zymovogo-aksesuaru",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "750₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-zhyleta-z-shtuchnogo-khutra-profesiynyy-doglyad-dlya-vashogo-zymovogo-aksesuaru"
+    },
+    {
+      "id": 124,
+      "name": "Жилет/підстібка із натурального хутра (ціна від)",
+      "href": "chystka-zhyletok-ta-pidstibky-z-naturalnogo-khutra",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "2,500₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-zhyletok-ta-pidstibky-z-naturalnogo-khutra"
+    },
+    {
+      "id": 215,
+      "name": "Іграшка від 1 м (ціна від)",
+      "href": "igrashka-vid-1-m-tsina-vid",
+      "categoryHref": "igrashki-ta-dityachi-rechi",
+      "categoryTitle": "Іграшки та дитячі речі",
+      "price": "1,900₴",
+      "url": "/poslugi-ta-cini/igrashki-ta-dityachi-rechi/posluga/igrashka-vid-1-m-tsina-vid"
+    },
+    {
+      "id": 214,
+      "name": "Іграшка від 50 см до 1 м",
+      "href": "igrashka-vid-50-sm-do-1-m",
+      "categoryHref": "igrashki-ta-dityachi-rechi",
+      "categoryTitle": "Іграшки та дитячі речі",
+      "price": "800₴",
+      "url": "/poslugi-ta-cini/igrashki-ta-dityachi-rechi/posluga/igrashka-vid-50-sm-do-1-m"
+    },
+    {
+      "id": 93,
+      "name": "Капелюх (ціна від)",
+      "href": "prannya-ta-chystka-kapelyukhiv-profesiyne-ochyshchennya-dlya-zberezhennya-vyglyadu",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "1,000₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/prannya-ta-chystka-kapelyukhiv-profesiyne-ochyshchennya-dlya-zberezhennya-vyglyadu"
+    },
+    {
+      "id": 12,
+      "name": "Капрі",
+      "href": "khimchystka-kapri-u-kyyevi-profesiynyy-doglyad-za-vashymy-kapri",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "600₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-kapri-u-kyyevi-profesiynyy-doglyad-za-vashymy-kapri"
+    },
+    {
+      "id": 13,
+      "name": "Кардиган",
+      "href": "khimchystka-kardyganiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-kardyganamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "750₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-kardyganiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-kardyganamy"
+    },
+    {
+      "id": 94,
+      "name": "Кепка",
+      "href": "prannya-ta-chystka-kepok-ochyshchennya-dlya-stylyu-ta-komfortu",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "1,000₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/prannya-ta-chystka-kepok-ochyshchennya-dlya-stylyu-ta-komfortu"
+    },
+    {
+      "id": 143,
+      "name": "Килим акрил (м²)",
+      "href": "chystka-akrylovykh-kylymiv",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "440₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/chystka-akrylovykh-kylymiv"
+    },
+    {
+      "id": 146,
+      "name": "Килим віскоза (м²)",
+      "href": "chystka-kylymiv-z-viskozy",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "750₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/chystka-kylymiv-z-viskozy"
+    },
+    {
+      "id": 141,
+      "name": "Килим вовна (м²)",
+      "href": "chystka-vovnyanykh-kylymiv",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "400₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/chystka-vovnyanykh-kylymiv"
+    },
+    {
+      "id": 273,
+      "name": "Килим з натурального хутра  (м²)",
+      "href": "kylym-z-naturalnogo-khutra-m",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "1,500₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/kylym-z-naturalnogo-khutra-m"
+    },
+    {
+      "id": 140,
+      "name": "Килим Синтетика (м²)",
+      "href": "chystka-syntetychnykh-kylymiv",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "384₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/chystka-syntetychnykh-kylymiv"
+    },
+    {
+      "id": 175,
+      "name": "Килим улюбленця",
+      "href": "kylym-ulyublentsya",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "600₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/kylym-ulyublentsya"
+    },
+    {
+      "id": 142,
+      "name": "Килим шеггі (м²)",
+      "href": "chystka-kylymiv-sheggi",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "456₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/chystka-kylymiv-sheggi"
+    },
+    {
+      "id": 147,
+      "name": "Килим шовковий (м²)",
+      "href": "chystka-shovkovykh-kylymiv",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "950₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/chystka-shovkovykh-kylymiv"
+    },
+    {
+      "id": 149,
+      "name": "Килими з натуральної шкіри (м²)",
+      "href": "chystka-kylymiv-z-naturalnoyi-shkiry",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "1,500₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/chystka-kylymiv-z-naturalnoyi-shkiry"
+    },
+    {
+      "id": 148,
+      "name": "Килими ручної роботи-ексклюзивні (м²)",
+      "href": "chystka-kylymiv-ruchnoyi-roboty",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "1,000₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/chystka-kylymiv-ruchnoyi-roboty"
+    },
+    {
+      "id": 144,
+      "name": "Килимок для йоги (шт.)",
+      "href": "chystka-kylymkiv-dlya-yogy",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "780₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/chystka-kylymkiv-dlya-yogy"
+    },
+    {
+      "id": 72,
+      "name": "Ковдра двоспальна",
+      "href": "khimchystka-dvospalnykh-kovdr-ochyshchennya-dlya-vashogo-vidpochynku",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "1,200₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-dvospalnykh-kovdr-ochyshchennya-dlya-vashogo-vidpochynku"
+    },
+    {
+      "id": 71,
+      "name": "Ковдра полуторна",
+      "href": "khimchystka-polutornykh-kovdr-ochyshchennya-ta-doglyad-dlya-vashogo-komfortu",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "980₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-polutornykh-kovdr-ochyshchennya-ta-doglyad-dlya-vashogo-komfortu"
+    },
+    {
+      "id": 200,
+      "name": "Комбінезон джинсовий",
+      "href": "kombinezon-dzhynsovyy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "850₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/kombinezon-dzhynsovyy"
+    },
+    {
+      "id": 217,
+      "name": "Комбінезон дитячий утеплений",
+      "href": "kombinezon-dytyachyy-uteplenyy",
+      "categoryHref": "igrashki-ta-dityachi-rechi",
+      "categoryTitle": "Іграшки та дитячі речі",
+      "price": "900₴",
+      "url": "/poslugi-ta-cini/igrashki-ta-dityachi-rechi/posluga/kombinezon-dytyachyy-uteplenyy"
+    },
+    {
+      "id": 46,
+      "name": "Комбінезон лижний",
+      "href": "khimchystka-lyzhnykh-kombinezoniv-profesiynyy-doglyad-za-zymovym-odyagom",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "1,500₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-lyzhnykh-kombinezoniv-profesiynyy-doglyad-za-zymovym-odyagom"
+    },
+    {
+      "id": 199,
+      "name": "Комбінезон текстильний",
+      "href": "kombinezon-tekstylnyy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "810₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/kombinezon-tekstylnyy"
+    },
+    {
+      "id": 202,
+      "name": "Комбінезон шовковий",
+      "href": "kombinezon-shovkovyy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "950₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/kombinezon-shovkovyy"
+    },
+    {
+      "id": 87,
+      "name": "Комір з натурального хутра",
+      "href": "komir-naturalne-khutro-prannya-ta-doglyad-za-naturalnym-khutrom",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "700₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/komir-naturalne-khutro-prannya-ta-doglyad-za-naturalnym-khutrom"
+    },
+    {
+      "id": 86,
+      "name": "Комір з штучного хутра",
+      "href": "komir-shtuchnyy-khutro-prannya-ta-doglyad-za-khutrovymy-vyrobamy",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "400₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/komir-shtuchnyy-khutro-prannya-ta-doglyad-za-khutrovymy-vyrobamy"
+    },
+    {
+      "id": 127,
+      "name": "Комір шкіряний",
+      "href": "chystka-shkiryanogo-komira",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "900₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-shkiryanogo-komira"
+    },
+    {
+      "id": 103,
+      "name": "Корсет",
+      "href": "prannya-ta-chystka-korsetiv-vyshukanyy-doglyad-dlya-delikatnogo-odyagu",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "950₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/prannya-ta-chystka-korsetiv-vyshukanyy-doglyad-dlya-delikatnogo-odyagu"
+    },
+    {
+      "id": 14,
+      "name": "Костюм діловий (піджак + штани / спідниця)",
+      "href": "khimchystka-dilovykh-kostyumiv-pidzhak-shtany-spidnytsya-u-kyyevi",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "1,180₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-dilovykh-kostyumiv-pidzhak-shtany-spidnytsya-u-kyyevi"
+    },
+    {
+      "id": 15,
+      "name": "Костюм спортивний (кофта + штани)",
+      "href": "khimchystka-sportyvnykh-kostyumiv-dbaylyvyy-doglyad-za-koftoyu-ta-shtanamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "1,130₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-sportyvnykh-kostyumiv-dbaylyvyy-doglyad-za-koftoyu-ta-shtanamy"
+    },
+    {
+      "id": 170,
+      "name": "Костюм улюбленця",
+      "href": "khimchystka-kostyumu-dlya-ulyublentsya",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "650₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khimchystka-kostyumu-dlya-ulyublentsya"
+    },
+    {
+      "id": 16,
+      "name": "Кофта",
+      "href": "khimchystka-koft-u-kyyevi-profesiynyy-doglyad-za-vashymy-koftamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "650₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-koft-u-kyyevi-profesiynyy-doglyad-za-vashymy-koftamy"
+    },
+    {
+      "id": 95,
+      "name": "Краватка (ціна від)",
+      "href": "prannya-ta-chystka-kravatok-vash-styl-u-bezdogannomu-vyglyadi",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "500₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/prannya-ta-chystka-kravatok-vash-styl-u-bezdogannomu-vyglyadi"
+    },
+    {
+      "id": 1141,
+      "name": "Кросівки",
+      "href": "krosivky",
+      "categoryHref": "khimchistka-vzuttya",
+      "categoryTitle": "Хімчистка взуття",
+      "price": "1,550₴",
+      "url": "/poslugi-ta-cini/khimchistka-vzuttya/posluga/krosivky"
+    },
+    {
+      "id": 1151,
+      "name": "Кросівки",
+      "href": "krosivky",
+      "categoryHref": "remont-vzuttya",
+      "categoryTitle": "Ремонт взуття",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/remont-vzuttya/posluga/krosivky"
+    },
+    {
+      "id": 102,
+      "name": "Купальник",
+      "href": "khimchystka-kupalnykiv-profesiynyy-doglyad-za-plyazhnym-odyagom",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "800₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/khimchystka-kupalnykiv-profesiynyy-doglyad-za-plyazhnym-odyagom"
+    },
+    {
+      "id": 43,
+      "name": "Куртка джинсова",
+      "href": "khimchystka-dzhynsovykh-kurtok-idealnyy-doglyad-za-stylnym-verkhnim-odyagom",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "980₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-dzhynsovykh-kurtok-idealnyy-doglyad-za-stylnym-verkhnim-odyagom"
+    },
+    {
+      "id": 51,
+      "name": "Куртка лижна",
+      "href": "khimchystka-lyzhnykh-kurtok-profesiynyy-doglyad-za-sportyvnym-odyagom",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "1,400₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-lyzhnykh-kurtok-profesiynyy-doglyad-za-sportyvnym-odyagom"
+    },
+    {
+      "id": 48,
+      "name": "Куртка пуховик/синтепон",
+      "href": "khimchystka-pukhovyka-profesiynyy-doglyad-za-zymovymy-kurtkamy",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "1,200₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-pukhovyka-profesiynyy-doglyad-za-zymovymy-kurtkamy"
+    },
+    {
+      "id": 128,
+      "name": "Куртка шкіряна",
+      "href": "chystka-shkiryanoyi-kurtky",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "3,500₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-shkiryanoyi-kurtky"
+    },
+    {
+      "id": 65,
+      "name": "Ламбрекен за кг",
+      "href": "khimchystka-lambrekeniv-profesiynyy-doglyad-dlya-vashogo-inter-yeru",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "470₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-lambrekeniv-profesiynyy-doglyad-dlya-vashogo-inter-yeru"
+    },
+    {
+      "id": 169,
+      "name": "Лежак для улюбленця (ціна від)",
+      "href": "khimchystka-budynku-lezhaku-dlya-ulyublentsya",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "1,300₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khimchystka-budynku-lezhaku-dlya-ulyublentsya"
+    },
+    {
+      "id": 173,
+      "name": "Лежанка/Диван улюбленця",
+      "href": "khimchystka-lezhanok-ta-dyvaniv-dlya-ulyublentsiv",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "570₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khimchystka-lezhanok-ta-dyvaniv-dlya-ulyublentsiv"
+    },
+    {
+      "id": 1148,
+      "name": "Лофери",
+      "href": "lofery",
+      "categoryHref": "khimchistka-vzuttya",
+      "categoryTitle": "Хімчистка взуття",
+      "price": "1,950₴",
+      "url": "/poslugi-ta-cini/khimchistka-vzuttya/posluga/lofery"
+    },
+    {
+      "id": 1158,
+      "name": "Лофери",
+      "href": "lofery",
+      "categoryHref": "remont-vzuttya",
+      "categoryTitle": "Ремонт взуття",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/remont-vzuttya/posluga/lofery"
+    },
+    {
+      "id": 17,
+      "name": "Майка",
+      "href": "khimchystka-mayok-u-kyyevi-idealnyy-doglyad-za-vashymy-maykamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "520₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-mayok-u-kyyevi-idealnyy-doglyad-za-vashymy-maykamy"
+    },
+    {
+      "id": 118,
+      "name": "Матрац тонкий по типу Dormeo (ціна від)",
+      "href": "chystka-tonkykh-matratsiv",
+      "categoryHref": "m-yaki-mebli",
+      "categoryTitle": "М'які меблі",
+      "price": "2,500₴",
+      "url": "/poslugi-ta-cini/m-yaki-mebli/posluga/chystka-tonkykh-matratsiv"
+    },
+    {
+      "id": 174,
+      "name": "Матрац улюбленця",
+      "href": "khimchystka-matratsiv-dlya-ulyublentsiv",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "1,100₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khimchystka-matratsiv-dlya-ulyublentsiv"
+    },
+    {
+      "id": 232,
+      "name": "Матрац, чищення (ціна від)",
+      "href": "matrats-chyshchennya-tsina-vid",
+      "categoryHref": "m-yaki-mebli",
+      "categoryTitle": "М'які меблі",
+      "price": "3,000₴",
+      "url": "/poslugi-ta-cini/m-yaki-mebli/posluga/matrats-chyshchennya-tsina-vid"
+    },
+    {
+      "id": 1149,
+      "name": "Мокасини",
+      "href": "mokasyny",
+      "categoryHref": "khimchistka-vzuttya",
+      "categoryTitle": "Хімчистка взуття",
+      "price": "1,950₴",
+      "url": "/poslugi-ta-cini/khimchistka-vzuttya/posluga/mokasyny"
+    },
+    {
+      "id": 1159,
+      "name": "Мокасини",
+      "href": "mokasyny",
+      "categoryHref": "remont-vzuttya",
+      "categoryTitle": "Ремонт взуття",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/remont-vzuttya/posluga/mokasyny"
+    },
+    {
+      "id": 74,
+      "name": "Наматрацник на блискавці (шт.)",
+      "href": "khimchystka-namatratsnykiv-ochyshchennya-dlya-vashogo-komfortu-ta-zdorov-ya",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "1,750₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-namatratsnykiv-ochyshchennya-dlya-vashogo-komfortu-ta-zdorov-ya"
+    },
+    {
+      "id": 75,
+      "name": "Наматрацник на резинці (шт.)",
+      "href": "khimchystka-namatratsnykiv-na-rezyntsi-profesiyne-ochyshchennya-dlya-vashogo-komfortu",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "1,100₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-namatratsnykiv-na-rezyntsi-profesiyne-ochyshchennya-dlya-vashogo-komfortu"
+    },
+    {
+      "id": 1147,
+      "name": "Напівчеревики",
+      "href": "napivcherevyky",
+      "categoryHref": "khimchistka-vzuttya",
+      "categoryTitle": "Хімчистка взуття",
+      "price": "2,200₴",
+      "url": "/poslugi-ta-cini/khimchistka-vzuttya/posluga/napivcherevyky"
+    },
+    {
+      "id": 1157,
+      "name": "Напівчеревики",
+      "href": "napivcherevyky",
+      "categoryHref": "remont-vzuttya",
+      "categoryTitle": "Ремонт взуття",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/remont-vzuttya/posluga/napivcherevyky"
+    },
+    {
+      "id": 125,
+      "name": "Напівшубок із натурального хутра (до 70 см, ціна від)",
+      "href": "chystka-pivshubka-z-naturalnogo-khutra",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "3,000₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-pivshubka-z-naturalnogo-khutra"
+    },
+    {
+      "id": 176,
+      "name": "Нашийник/Поводок",
+      "href": "khimchystka-nashyynykiv-ta-povodkiv-dlya-ulyublentsiv",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "390₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khimchystka-nashyynykiv-ta-povodkiv-dlya-ulyublentsiv"
+    },
+    {
+      "id": 191,
+      "name": "Невеликі килими (до 1,2 м², за шт.)",
+      "href": "khimchystka-malykh-kylymiv",
+      "categoryHref": "prannya-kilimiv",
+      "categoryTitle": "Прання килимів",
+      "price": "700₴",
+      "url": "/poslugi-ta-cini/prannya-kilimiv/posluga/khimchystka-malykh-kylymiv"
+    },
+    {
+      "id": 100,
+      "name": "Палантин",
+      "href": "khimchystka-palantyniv-profesiynyy-doglyad-za-delikatnymy-tkanynamy",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "650₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/khimchystka-palantyniv-profesiynyy-doglyad-za-delikatnymy-tkanynamy"
+    },
+    {
+      "id": 211,
+      "name": "Пальто довге синтепон/пух",
+      "href": "palto-dovge-syntepon-pukh",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "1,400₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/palto-dovge-syntepon-pukh"
+    },
+    {
+      "id": 53,
+      "name": "Пальто текстильне коротке",
+      "href": "khimchystka-korotkogo-palto-profesiyne-ochyshchennya-ta-doglyad",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "920₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-korotkogo-palto-profesiyne-ochyshchennya-ta-doglyad"
+    },
+    {
+      "id": 54,
+      "name": "Пальто текстильне подовжене",
+      "href": "khimchystka-podovzhenogo-palta-profesiyne-ochyshchennya-dlya-zymovykh-palt",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "1,040₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-podovzhenogo-palta-profesiyne-ochyshchennya-dlya-zymovykh-palt"
+    },
+    {
+      "id": 221,
+      "name": "Панама",
+      "href": "panama",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "700₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/panama"
+    },
+    {
+      "id": 50,
+      "name": "Парка",
+      "href": "khimchystka-parok-profesiynyy-doglyad-za-zymovymy-kurtkamy",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "1,400₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-parok-profesiynyy-doglyad-za-zymovymy-kurtkamy"
+    },
+    {
+      "id": 18,
+      "name": "Піджак",
+      "href": "khimchystka-pidzhakiv-u-kyyevi-profesiynyy-doglyad-za-vashym-pidzhakom",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "750₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-pidzhakiv-u-kyyevi-profesiynyy-doglyad-za-vashym-pidzhakom"
+    },
+    {
+      "id": 135,
+      "name": "Піджак шкіряний",
+      "href": "chystka-shkiryanogo-pidzhaka",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "3,000₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-shkiryanogo-pidzhaka"
+    },
+    {
+      "id": 60,
+      "name": "Підстібка штучне хутро",
+      "href": "khimchystka-pidstibky-z-shtuchnogo-khutra-profesiynyy-doglyad-dlya-vashogo-zymovogo-aksesuaru",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "850₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-pidstibky-z-shtuchnogo-khutra-profesiynyy-doglyad-dlya-vashogo-zymovogo-aksesuaru"
+    },
+    {
+      "id": 41,
+      "name": "Піжама (верх+низ)",
+      "href": "khimchystka-pizham-verkh-nyz-idealnyy-doglyad-za-vashymy-komfortnymy-komplektamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "700₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-pizham-verkh-nyz-idealnyy-doglyad-za-vashymy-komfortnymy-komplektamy"
+    },
+    {
+      "id": 129,
+      "name": "Плащ шкіряний (від 110 см)",
+      "href": "chystka-shkiryanogo-plashcha",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "4,500₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-shkiryanogo-plashcha"
+    },
+    {
+      "id": 130,
+      "name": "Плащ шкіряний (до 110 см)",
+      "href": "chystka-shkiryanogo-plashcha",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "4,000₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-shkiryanogo-plashcha"
+    },
+    {
+      "id": 55,
+      "name": "Плащ/тренч",
+      "href": "khimchystka-plashcha-trencha-doglyad-za-stylnymy-verkhnimy-vyrobamy",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "900₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-plashcha-trencha-doglyad-za-stylnymy-verkhnimy-vyrobamy"
+    },
+    {
+      "id": 193,
+      "name": "Плед двохспальний",
+      "href": "khimchystka-plediv-dvospalnykh",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "950₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-plediv-dvospalnykh"
+    },
+    {
+      "id": 192,
+      "name": "Плед полуторний",
+      "href": "khimchystka-plediv-polutornykh",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "830₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-plediv-polutornykh"
+    },
+    {
+      "id": 212,
+      "name": "Подушка з синтетичним наповнювачем",
+      "href": "podushka-z-syntetychnym-napovnyuvachem",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "830₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/podushka-z-syntetychnym-napovnyuvachem"
+    },
+    {
+      "id": 76,
+      "name": "Подушка пух-перо без заміни напірника (аквачистка)",
+      "href": "khimchystka-podushky-pukh-pero-profesiyne-ochyshchennya-dlya-komfortnogo-snu",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "850₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-podushky-pukh-pero-profesiyne-ochyshchennya-dlya-komfortnogo-snu"
+    },
+    {
+      "id": 77,
+      "name": "Подушка пух-перо з заміною напірника (перенаповнення)",
+      "href": "khimchystka-podushky-pukh-pero-zamina-vidnovlennya-ta-ochyshchennya-dlya-komfortnogo-snu",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "920₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-podushky-pukh-pero-zamina-vidnovlennya-ta-ochyshchennya-dlya-komfortnogo-snu"
+    },
+    {
+      "id": 78,
+      "name": "Подушки меблеві",
+      "href": "khimchystka-meblevykh-podushok-vidnovlennya-chystoty-ta-komfortu-vashoyi-mebli",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "998₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-meblevykh-podushok-vidnovlennya-chystoty-ta-komfortu-vashoyi-mebli"
+    },
+    {
+      "id": 213,
+      "name": "Подушки меблеві (попередня консультація технолога, ціна від)",
+      "href": "podushky-meblevi-poperednya-konsultatsiya-tekhnologa-tsina-vid",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "1,000₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/podushky-meblevi-poperednya-konsultatsiya-tekhnologa-tsina-vid"
+    },
+    {
+      "id": 220,
+      "name": "Послуга демонтаж/монтаж дитячого візка",
+      "href": "posluga-demontazh-montazh-dytyachogo-vizka",
+      "categoryHref": "igrashki-ta-dityachi-rechi",
+      "categoryTitle": "Іграшки та дитячі речі",
+      "price": "500₴",
+      "url": "/poslugi-ta-cini/igrashki-ta-dityachi-rechi/posluga/posluga-demontazh-montazh-dytyachogo-vizka"
+    },
+    {
+      "id": 85,
+      "name": "Прання речей за кг (мінімальне завантаження від 3 кг)",
+      "href": "prannya-rechey-na-kilogram-profesiyne-prannya-vashogo-odyagu",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "430₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/prannya-rechey-na-kilogram-profesiyne-prannya-vashogo-odyagu"
+    },
+    {
+      "id": 151,
+      "name": "Прасування БЛУЗА",
+      "href": "prasuvannya-bluzy",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "180₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-bluzy"
+    },
+    {
+      "id": 152,
+      "name": "Прасування БЛУЗА ШОВКОВА. З РЮШАМИ, З ОБРОБКОЮ",
+      "href": "prasuvannya-shovkovoyi-bluzy-z-ryushamy-ta-obrobkoyu",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "230₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-shovkovoyi-bluzy-z-ryushamy-ta-obrobkoyu"
+    },
+    {
+      "id": 153,
+      "name": "Прасування БРЮКИ",
+      "href": "prasuvannya-bryuk",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "180₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-bryuk"
+    },
+    {
+      "id": 155,
+      "name": "Прасування КРАВАТКА",
+      "href": "prasuvannya-kravatky",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "120₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-kravatky"
+    },
+    {
+      "id": 156,
+      "name": "Прасування КУРТКА",
+      "href": "prasuvannya-kurtky",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "260₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-kurtky"
+    },
+    {
+      "id": 157,
+      "name": "Прасування ПАЛЬТО",
+      "href": "prasuvannya-palto",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "260₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-palto"
+    },
+    {
+      "id": 158,
+      "name": "Прасування ПІДЖАК",
+      "href": "prasuvannya-pidzhaka",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "190₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-pidzhaka"
+    },
+    {
+      "id": 161,
+      "name": "Прасування ПЛАЩ",
+      "href": "prasuvannya-plashcha",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "260₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-plashcha"
+    },
+    {
+      "id": 162,
+      "name": "Прасування ПОСТІЛЬНА БІЛИЗНА",
+      "href": "prasuvannya-postilnoyi-bilyzny",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "200₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-postilnoyi-bilyzny"
+    },
+    {
+      "id": 168,
+      "name": "Прасування СВЕТР",
+      "href": "prasuvannya-svetra",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "180₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-svetra"
+    },
+    {
+      "id": 163,
+      "name": "Прасування СОРОЧКА",
+      "href": "prasuvannya-sorochky",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "180₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-sorochky"
+    },
+    {
+      "id": 154,
+      "name": "Прасування СПІДНИЦЯ",
+      "href": "prasuvannya-spidnytsi",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "180₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-spidnytsi"
+    },
+    {
+      "id": 165,
+      "name": "Прасування СПІДНИЦЯ ПЛІСЕ",
+      "href": "prasuvannya-spidnytsi-plise",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "320₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-spidnytsi-plise"
+    },
+    {
+      "id": 159,
+      "name": "Прасування СУКНЯ",
+      "href": "prasuvannya-sukni",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-sukni"
+    },
+    {
+      "id": 160,
+      "name": "Прасування СУКНЯ ВЕСІЛЬНА, ВЕЧІРНЕ",
+      "href": "prasuvannya-vesilnoyi-ta-vechirnoyi-sukni",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "800₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-vesilnoyi-ta-vechirnoyi-sukni"
+    },
+    {
+      "id": 167,
+      "name": "Прасування ТОП/МАЙКА/ФУТБОЛКА",
+      "href": "prasuvannya-topa-mayky-futbolky",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "90₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-topa-mayky-futbolky"
+    },
+    {
+      "id": 166,
+      "name": "Прасування ФУТБОЛКА",
+      "href": "prasuvannya-futbolky",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "140₴",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-futbolky"
+    },
+    {
+      "id": 164,
+      "name": "Прасування ШТОРИ/ТЮЛЬ",
+      "href": "prasuvannya-shtor-ta-tyulyu",
+      "categoryHref": "prays-praski",
+      "categoryTitle": "Прайс праски",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/prays-praski/posluga/prasuvannya-shtor-ta-tyulyu"
+    },
+    {
+      "id": 116,
+      "name": "Пуф (ціна від)",
+      "href": "chystka-pufiv",
+      "categoryHref": "m-yaki-mebli",
+      "categoryTitle": "М'які меблі",
+      "price": "1,000₴",
+      "url": "/poslugi-ta-cini/m-yaki-mebli/posluga/chystka-pufiv"
+    },
+    {
+      "id": 19,
+      "name": "Реглан",
+      "href": "khimchystka-reglaniv-u-kyyevi-profesiynyy-doglyad-za-vashymy-reglanamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "800₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-reglaniv-u-kyyevi-profesiynyy-doglyad-za-vashymy-reglanamy"
+    },
+    {
+      "id": 88,
+      "name": "Ремінь із текстилю",
+      "href": "chystka-remenya-z-tekstylyu-profesiyne-prannya-ta-doglyad",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "550₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/chystka-remenya-z-tekstylyu-profesiyne-prannya-ta-doglyad"
+    },
+    {
+      "id": 69,
+      "name": "Римські штори",
+      "href": "khimchystka-rymskykh-shtor-profesiyne-ochyshchennya-dlya-elegantnogo-vyglyadu",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "580₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-rymskykh-shtor-profesiyne-ochyshchennya-dlya-elegantnogo-vyglyadu"
+    },
+    {
+      "id": 90,
+      "name": "Рукавички лижні (пара)",
+      "href": "chystka-lyzhnykh-rukavychok-profesiyne-prannya-ta-doglyad-za-zymovymy-aksesuaramy",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "900₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/chystka-lyzhnykh-rukavychok-profesiyne-prannya-ta-doglyad-za-zymovymy-aksesuaramy"
+    },
+    {
+      "id": 89,
+      "name": "Рукавички текстильні (пара)",
+      "href": "chystka-tekstylnykh-rukavychok-profesiyne-prannya-ta-doglyad",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "600₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/chystka-tekstylnykh-rukavychok-profesiyne-prannya-ta-doglyad"
+    },
+    {
+      "id": 228,
+      "name": "Рюкзак текстильний (ціна від)",
+      "href": "ryukzak-tekstylnyy-tsina-vid",
+      "categoryHref": "sumki-ta-ryukzaki",
+      "categoryTitle": "Сумки та рюкзаки",
+      "price": "1,500₴",
+      "url": "/poslugi-ta-cini/sumki-ta-ryukzaki/posluga/ryukzak-tekstylnyy-tsina-vid"
+    },
+    {
+      "id": 229,
+      "name": "Рюкзак шкіряний (ціна від)",
+      "href": "ryukzak-shkiryanyy-tsina-vid",
+      "categoryHref": "sumki-ta-ryukzaki",
+      "categoryTitle": "Сумки та рюкзаки",
+      "price": "3,500₴",
+      "url": "/poslugi-ta-cini/sumki-ta-ryukzaki/posluga/ryukzak-shkiryanyy-tsina-vid"
+    },
+    {
+      "id": 231,
+      "name": "Рюкзак/сумка-переноска (шт.)",
+      "href": "ryukzak-sumka-perenoska-sht",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "1,300₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/ryukzak-sumka-perenoska-sht"
+    },
+    {
+      "id": 20,
+      "name": "Сарафан/сукня",
+      "href": "khimchystka-sarafaniv-ta-sukon-u-kyyevi-dbaylyvyy-doglyad-za-vashymy-suknyamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "950₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-sarafaniv-ta-sukon-u-kyyevi-dbaylyvyy-doglyad-za-vashymy-suknyamy"
+    },
+    {
+      "id": 21,
+      "name": "Свiтшот",
+      "href": "khimchystka-svitshotiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-svitshotamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "800₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-svitshotiv-u-kyyevi-profesiynyy-doglyad-za-vashymy-svitshotamy"
+    },
+    {
+      "id": 22,
+      "name": "Светр",
+      "href": "khimchystka-svetriv-u-kyyevi-profesiynyy-doglyad-za-vashymy-svetramy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "790₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-svetriv-u-kyyevi-profesiynyy-doglyad-za-vashymy-svetramy"
+    },
+    {
+      "id": 178,
+      "name": "Светр улюбленця",
+      "href": "khimchystka-svetriv-dlya-ulyublentsiv",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "240₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khimchystka-svetriv-dlya-ulyublentsiv"
+    },
+    {
+      "id": 79,
+      "name": "Скатертина від 1 кг",
+      "href": "khimchystka-skatertyn-vidnovlennya-chystoty-ta-elegantnosti",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "570₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-skatertyn-vidnovlennya-chystoty-ta-elegantnosti"
+    },
+    {
+      "id": 39,
+      "name": "Смокінг/Фрак",
+      "href": "khimchystka-smokingiv-ta-frakiv-idealnyy-doglyad-za-elegantnym-cholovichym-odyagom",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "1,290₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-smokingiv-ta-frakiv-idealnyy-doglyad-za-elegantnym-cholovichym-odyagom"
+    },
+    {
+      "id": 204,
+      "name": "Сорочка",
+      "href": "sorochka",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "570₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/sorochka"
+    },
+    {
+      "id": 205,
+      "name": "Сорочка з декором",
+      "href": "sorochka-z-dekorom",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "720₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/sorochka-z-dekorom"
+    },
+    {
+      "id": 132,
+      "name": "Сорочка шкіряна",
+      "href": "chystka-shkiryanoyi-sorochky",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "2,500₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-shkiryanoyi-sorochky"
+    },
+    {
+      "id": 61,
+      "name": "Спальний мішок (шт.)",
+      "href": "khimchystka-spalnogo-mishka-profesiynyy-doglyad-dlya-komfortnogo-snu",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "1,500₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-spalnogo-mishka-profesiynyy-doglyad-dlya-komfortnogo-snu"
+    },
+    {
+      "id": 23,
+      "name": "Спідниця в'язана, вовняна, шовкова",
+      "href": "khimchystka-v-yazanykh-i-vovnyanykh-spidnyts-dbaylyvyy-doglyad-za-delikatnymy-tkanynamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "830₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-v-yazanykh-i-vovnyanykh-spidnyts-dbaylyvyy-doglyad-za-delikatnymy-tkanynamy"
+    },
+    {
+      "id": 24,
+      "name": "Спідниця плісе, гофре, складки",
+      "href": "khimchystka-spidnyts-plise-gofre-ta-zi-skladkamy-idealna-forma-bezdogannoyi-chystoty",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "880₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-spidnyts-plise-gofre-ta-zi-skladkamy-idealna-forma-bezdogannoyi-chystoty"
+    },
+    {
+      "id": 25,
+      "name": "Спідниця простого фасону",
+      "href": "khimchystka-spidnyts-prostogo-fasonu-onovlennya-vashogo-ulyublenogo-odyagu",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "570₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-spidnyts-prostogo-fasonu-onovlennya-vashogo-ulyublenogo-odyagu"
+    },
+    {
+      "id": 136,
+      "name": "Спідниця шкіряна (ціна від)",
+      "href": "chystka-spidnyts",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "1,500₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-spidnyts"
+    },
+    {
+      "id": 36,
+      "name": "Сукня в`язана, вовняна, шовкова",
+      "href": "khimchystka-v-yazanykh-ta-vovnyanykh-sukon-doglyad-za-elegantnymy-obrazamy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "1,020₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-v-yazanykh-ta-vovnyanykh-sukon-doglyad-za-elegantnymy-obrazamy"
+    },
+    {
+      "id": 207,
+      "name": "Сукня весільна без декору",
+      "href": "suknya-vesilna-bez-dekoru",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "3,200₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/suknya-vesilna-bez-dekoru"
+    },
+    {
+      "id": 208,
+      "name": "Сукня весільна з декором",
+      "href": "suknya-vesilna-z-dekorom",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "4,270₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/suknya-vesilna-z-dekorom"
+    },
+    {
+      "id": 37,
+      "name": "Сукня вечірня/святкова",
+      "href": "khimchystka-vechirnikh-sukon-idealnyy-doglyad-dlya-urochystykh-podiy",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "2,000₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-vechirnikh-sukon-idealnyy-doglyad-dlya-urochystykh-podiy"
+    },
+    {
+      "id": 209,
+      "name": "Сукня вечірня/святкова коротка",
+      "href": "suknya-vechirnya-svyatkova-korotka",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "1,600₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/suknya-vechirnya-svyatkova-korotka"
+    },
+    {
+      "id": 206,
+      "name": "Сукня простого фасону",
+      "href": "suknya-prostogo-fasonu",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "950₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/suknya-prostogo-fasonu"
+    },
+    {
+      "id": 177,
+      "name": "Сукня улюбленця",
+      "href": "khimchystka-sukon-dlya-ulyublentsiv",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "210₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khimchystka-sukon-dlya-ulyublentsiv"
+    },
+    {
+      "id": 137,
+      "name": "Сукня шкіряна (ціна від)",
+      "href": "chystka-shkiryanykh-sukon",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "2,000₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-shkiryanykh-sukon"
+    },
+    {
+      "id": 223,
+      "name": "Сумка текстильна (ціна від)",
+      "href": "sumka-tekstylna-tsina-vid",
+      "categoryHref": "sumki-ta-ryukzaki",
+      "categoryTitle": "Сумки та рюкзаки",
+      "price": "1,700₴",
+      "url": "/poslugi-ta-cini/sumki-ta-ryukzaki/posluga/sumka-tekstylna-tsina-vid"
+    },
+    {
+      "id": 225,
+      "name": "Сумка текстильна дорожня з декором (ціна від)",
+      "href": "sumka-tekstylna-dorozhnya-z-dekorom-tsina-vid",
+      "categoryHref": "sumki-ta-ryukzaki",
+      "categoryTitle": "Сумки та рюкзаки",
+      "price": "3,000₴",
+      "url": "/poslugi-ta-cini/sumki-ta-ryukzaki/posluga/sumka-tekstylna-dorozhnya-z-dekorom-tsina-vid"
+    },
+    {
+      "id": 224,
+      "name": "Сумка шкіряна (ціна від)",
+      "href": "sumka-shkiryana-tsina-vid",
+      "categoryHref": "sumki-ta-ryukzaki",
+      "categoryTitle": "Сумки та рюкзаки",
+      "price": "4,000₴",
+      "url": "/poslugi-ta-cini/sumki-ta-ryukzaki/posluga/sumka-shkiryana-tsina-vid"
+    },
+    {
+      "id": 226,
+      "name": "Сумка шкіряна дорожня з декором (ціна від)",
+      "href": "sumka-shkiryana-dorozhnya-z-dekorom-tsina-vid",
+      "categoryHref": "sumki-ta-ryukzaki",
+      "categoryTitle": "Сумки та рюкзаки",
+      "price": "5,000₴",
+      "url": "/poslugi-ta-cini/sumki-ta-ryukzaki/posluga/sumka-shkiryana-dorozhnya-z-dekorom-tsina-vid"
+    },
+    {
+      "id": 26,
+      "name": "Теніска",
+      "href": "khimchystka-tenisky-idealna-chystota-ta-doglyad-dlya-vashogo-komfortu",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "550₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-tenisky-idealna-chystota-ta-doglyad-dlya-vashogo-komfortu"
+    },
+    {
+      "id": 33,
+      "name": "Топ",
+      "href": "khimchystka-topiv-doglyad-za-vashym-stylnym-odyagom",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "400₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-topiv-doglyad-za-vashym-stylnym-odyagom"
+    },
+    {
+      "id": 27,
+      "name": "Туніка",
+      "href": "khimchystka-tuniky-vasha-ulyublena-rich-u-naykrashchomu-vyglyadi",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "640₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-tuniky-vasha-ulyublena-rich-u-naykrashchomu-vyglyadi"
+    },
+    {
+      "id": 1145,
+      "name": "Туфлі",
+      "href": "tufli",
+      "categoryHref": "khimchistka-vzuttya",
+      "categoryTitle": "Хімчистка взуття",
+      "price": "1,950₴",
+      "url": "/poslugi-ta-cini/khimchistka-vzuttya/posluga/tufli"
+    },
+    {
+      "id": 1155,
+      "name": "Туфлі",
+      "href": "tufli",
+      "categoryHref": "remont-vzuttya",
+      "categoryTitle": "Ремонт взуття",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/remont-vzuttya/posluga/tufli"
+    },
+    {
+      "id": 66,
+      "name": "Тюль (м²)",
+      "href": "khimchystka-tyul-dbaylyvyy-doglyad-dlya-vashogo-inter-yeru",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "270₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-tyul-dbaylyvyy-doglyad-dlya-vashogo-inter-yeru"
+    },
+    {
+      "id": 171,
+      "name": "Утеплений жилет для улюбленця",
+      "href": "khimchystka-uteplenogo-zhyletu-dlya-ulyublentsya",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "335₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khimchystka-uteplenogo-zhyletu-dlya-ulyublentsya"
+    },
+    {
+      "id": 172,
+      "name": "Утеплений куртка/комбез улюбленця",
+      "href": "khimchystka-uteplenykh-kurtok-ta-kombinezoniv-dlya-ulyublentsiv",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "335₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khimchystka-uteplenykh-kurtok-ta-kombinezoniv-dlya-ulyublentsiv"
+    },
+    {
+      "id": 96,
+      "name": "Фата (ціна від)",
+      "href": "prannya-ta-chystka-faty-doskonala-chystota-dlya-vashogo-vesilnogo-obrazu",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "700₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/prannya-ta-chystka-faty-doskonala-chystota-dlya-vashogo-vesilnogo-obrazu"
+    },
+    {
+      "id": 28,
+      "name": "Футболка",
+      "href": "khimchystka-futbolok-doskonalyy-vyglyad-vashogo-ulyublenogo-odyagu",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "520₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-futbolok-doskonalyy-vyglyad-vashogo-ulyublenogo-odyagu"
+    },
+    {
+      "id": 29,
+      "name": "Футболка поло",
+      "href": "khimchystka-futbolok-polo-doglyad-dlya-stylnogo-vyglyadu",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "620₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-futbolok-polo-doglyad-dlya-stylnogo-vyglyadu"
+    },
+    {
+      "id": 30,
+      "name": "Халат махровий",
+      "href": "khimchystka-makhrovykh-khalativ-svizhist-i-komfort-vashogo-ulyublenogo-odyagu",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "600₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-makhrovykh-khalativ-svizhist-i-komfort-vashogo-ulyublenogo-odyagu"
+    },
+    {
+      "id": 31,
+      "name": "Халат шовковий",
+      "href": "khimchystka-shovkovykh-khalativ-elegantnyy-doglyad-dlya-delikatnykh-tkanyn",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "880₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-shovkovykh-khalativ-elegantnyy-doglyad-dlya-delikatnykh-tkanyn"
+    },
+    {
+      "id": 230,
+      "name": "Хатинка (шт.)",
+      "href": "khatynka-sht",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "900₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khatynka-sht"
+    },
+    {
+      "id": 64,
+      "name": "Худі",
+      "href": "khimchystka-khudi-profesiynyy-doglyad-dlya-vashogo-komfortu",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "800₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-khudi-profesiynyy-doglyad-dlya-vashogo-komfortu"
+    },
+    {
+      "id": 97,
+      "name": "Хустка",
+      "href": "prannya-ta-chystka-khustky-zberezhennya-vytonchenosti-ta-krasy",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "600₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/prannya-ta-chystka-khustky-zberezhennya-vytonchenosti-ta-krasy"
+    },
+    {
+      "id": 1146,
+      "name": "Черевики",
+      "href": "cherevyky",
+      "categoryHref": "khimchistka-vzuttya",
+      "categoryTitle": "Хімчистка взуття",
+      "price": "2,500₴",
+      "url": "/poslugi-ta-cini/khimchistka-vzuttya/posluga/cherevyky"
+    },
+    {
+      "id": 1156,
+      "name": "Черевики",
+      "href": "cherevyky",
+      "categoryHref": "remont-vzuttya",
+      "categoryTitle": "Ремонт взуття",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/remont-vzuttya/posluga/cherevyky"
+    },
+    {
+      "id": 113,
+      "name": "Чистка дивану",
+      "href": "profesiyna-chystka-dyvaniv",
+      "categoryHref": "m-yaki-mebli",
+      "categoryTitle": "М'які меблі",
+      "price": "Ціна за запитом",
+      "url": "/poslugi-ta-cini/m-yaki-mebli/posluga/profesiyna-chystka-dyvaniv"
+    },
+    {
+      "id": 114,
+      "name": "Чистка крісла (ціна від)",
+      "href": "profesiyna-chystka-krisel",
+      "categoryHref": "m-yaki-mebli",
+      "categoryTitle": "М'які меблі",
+      "price": "1,500₴",
+      "url": "/poslugi-ta-cini/m-yaki-mebli/posluga/profesiyna-chystka-krisel"
+    },
+    {
+      "id": 115,
+      "name": "Чистка стільця (ціна від)",
+      "href": "profesiyna-chystka-stiltsiv",
+      "categoryHref": "m-yaki-mebli",
+      "categoryTitle": "М'які меблі",
+      "price": "750₴",
+      "url": "/poslugi-ta-cini/m-yaki-mebli/posluga/profesiyna-chystka-stiltsiv"
+    },
+    {
+      "id": 119,
+      "name": "Чистка текстильних елементів ліжка (ціна від)",
+      "href": "chystka-tekstylnykh-elementiv-lizhka",
+      "categoryHref": "m-yaki-mebli",
+      "categoryTitle": "М'які меблі",
+      "price": "2,000₴",
+      "url": "/poslugi-ta-cini/m-yaki-mebli/posluga/chystka-tekstylnykh-elementiv-lizhka"
+    },
+    {
+      "id": 120,
+      "name": "Чистка шкіряних елементів ліжка (ціна від)",
+      "href": "chystka-shkiryanykh-elementiv-lizhka",
+      "categoryHref": "m-yaki-mebli",
+      "categoryTitle": "М'які меблі",
+      "price": "2,800₴",
+      "url": "/poslugi-ta-cini/m-yaki-mebli/posluga/chystka-shkiryanykh-elementiv-lizhka"
+    },
+    {
+      "id": 73,
+      "name": "Чохол меблевий за кг",
+      "href": "khimchystka-chokhliv-meblevykh-ochyshchennya-dlya-vashoyi-mebliv",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "560₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-chokhliv-meblevykh-ochyshchennya-dlya-vashoyi-mebliv"
+    },
+    {
+      "id": 222,
+      "name": "Шаль (ціна від)",
+      "href": "shal-tsina-vid",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "600₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/shal-tsina-vid"
+    },
+    {
+      "id": 92,
+      "name": "Шапка",
+      "href": "prannya-ta-chystka-shapok-profesiyne-ochyshchennya-dlya-zberezhennya-vyglyadu",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "700₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/prannya-ta-chystka-shapok-profesiyne-ochyshchennya-dlya-zberezhennya-vyglyadu"
+    },
+    {
+      "id": 98,
+      "name": "Шарф (ціна від)",
+      "href": "khimchystka-sharfiv-profesiyna-chystka-sharfiv-bud-yakykh-tkanyn",
+      "categoryHref": "khimchistka-aksesuariv",
+      "categoryTitle": "Хімчистка аксесуарів",
+      "price": "700₴",
+      "url": "/poslugi-ta-cini/khimchistka-aksesuariv/posluga/khimchystka-sharfiv-profesiyna-chystka-sharfiv-bud-yakykh-tkanyn"
+    },
+    {
+      "id": 32,
+      "name": "Шорти",
+      "href": "khimchystka-shortiv-idealna-chystota-dlya-vashogo-komfortu",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "640₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-shortiv-idealna-chystota-dlya-vashogo-komfortu"
+    },
+    {
+      "id": 133,
+      "name": "Шорти шкіряні (ціна від)",
+      "href": "chystka-shkiryanykh-short",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "1,500₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-shkiryanykh-short"
+    },
+    {
+      "id": 34,
+      "name": "Штани класичні",
+      "href": "khimchystka-klasychnykh-shtaniv-doglyad-za-elegantnym-stylem",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "670₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-klasychnykh-shtaniv-doglyad-za-elegantnym-stylem"
+    },
+    {
+      "id": 52,
+      "name": "Штани лижні",
+      "href": "khimchystka-lyzhnykh-shtaniv-profesiyne-ochyshchennya-dlya-zymovykh-sportyvnykh-shtaniv",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "930₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-lyzhnykh-shtaniv-profesiyne-ochyshchennya-dlya-zymovykh-sportyvnykh-shtaniv"
+    },
+    {
+      "id": 35,
+      "name": "Штани спортивні",
+      "href": "khimchystka-sportyvnykh-shtaniv-ochyshchennya-dlya-aktyvnogo-sposobu-zhyttya",
+      "categoryHref": "tekstilniy-odyag",
+      "categoryTitle": "Текстильний Одяг",
+      "price": "630₴",
+      "url": "/poslugi-ta-cini/tekstilniy-odyag/posluga/khimchystka-sportyvnykh-shtaniv-ochyshchennya-dlya-aktyvnogo-sposobu-zhyttya"
+    },
+    {
+      "id": 179,
+      "name": "Штани улюбленця",
+      "href": "khimchystka-shtaniv-dlya-ulyublentsya",
+      "categoryHref": "dlya-ulyublentsiv",
+      "categoryTitle": "Для улюбленців",
+      "price": "210₴",
+      "url": "/poslugi-ta-cini/dlya-ulyublentsiv/posluga/khimchystka-shtaniv-dlya-ulyublentsya"
+    },
+    {
+      "id": 131,
+      "name": "Штани шкіряні",
+      "href": "chystka-shkiryanykh-shtaniv",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "2,000₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-shkiryanykh-shtaniv"
+    },
+    {
+      "id": 67,
+      "name": "Штори (м²)",
+      "href": "khimchystka-shtor-profesiynyy-doglyad-dlya-vashogo-inter-yeru",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "350₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-shtor-profesiynyy-doglyad-dlya-vashogo-inter-yeru"
+    },
+    {
+      "id": 68,
+      "name": "Штори подвійні (м²)",
+      "href": "khimchystka-podviynykh-shtor-profesiyne-ochyshchennya-dlya-skladnykh-tkanyn",
+      "categoryHref": "domashniy-tekstil",
+      "categoryTitle": "Домашній текстиль",
+      "price": "510₴",
+      "url": "/poslugi-ta-cini/domashniy-tekstil/posluga/khimchystka-podviynykh-shtor-profesiyne-ochyshchennya-dlya-skladnykh-tkanyn"
+    },
+    {
+      "id": 126,
+      "name": "Шуба з натурального хутра (від 70 см, ціна від)",
+      "href": "chystka-shuby-z-naturalnogo-khutra",
+      "categoryHref": "khimchistka-odyagu-z-shkiri-ta-khutra",
+      "categoryTitle": "Хімчистка одягу з шкіри та хутра",
+      "price": "3,700₴",
+      "url": "/poslugi-ta-cini/khimchistka-odyagu-z-shkiri-ta-khutra/posluga/chystka-shuby-z-naturalnogo-khutra"
+    },
+    {
+      "id": 59,
+      "name": "Шуба штучна від 70 см (додатково)",
+      "href": "khimchystka-podovzhenoyi-shtuchnoyi-shuby-profesiynyy-doglyad-dlya-vashogo-zymovogo-verkhnogo-odyagu",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "1,400₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-podovzhenoyi-shtuchnoyi-shuby-profesiynyy-doglyad-dlya-vashogo-zymovogo-verkhnogo-odyagu"
+    },
+    {
+      "id": 58,
+      "name": "Шуба штучна до 70 см",
+      "href": "khimchystka-shtuchnoyi-shuby-do-70-sm-profesiynyy-doglyad-dlya-vashogo-zymovogo-ulyublentsya",
+      "categoryHref": "verkhniy-odyag",
+      "categoryTitle": "Верхній oдяг",
+      "price": "1,150₴",
+      "url": "/poslugi-ta-cini/verkhniy-odyag/posluga/khimchystka-shtuchnoyi-shuby-do-70-sm-profesiynyy-doglyad-dlya-vashogo-zymovogo-ulyublentsya"
+    }
+  ],
+  "meta": {
+    "total": 210
+  }
+}
